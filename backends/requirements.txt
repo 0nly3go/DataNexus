@@ -1,0 +1,9 @@
+Flask[async]
+Flask-CORS
+pymongo
+openai
+python-dotenv
+requests
+aiohttp
+motor
+aiohttp

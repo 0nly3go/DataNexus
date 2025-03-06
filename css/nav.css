@@ -1,0 +1,30 @@
+.nav-container {
+    background-color: var(--maroon);
+    padding: 1rem;
+    margin-bottom: 2rem;
+}
+
+.nav-list {
+    display: flex;
+    justify-content: space-around;
+    list-style: none;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.nav-item a {
+    color: white;
+    text-decoration: none;
+    font-weight: 500;
+    padding: 0.5rem 1rem;
+    border-radius: 4px;
+    transition: background-color 0.2s;
+}
+
+.nav-item a:hover {
+    background-color: var(--maroon-dark);
+}
+
+.nav-item.active a {
+    background-color: var(--gold);
+}
