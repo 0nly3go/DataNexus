@@ -7,3 +7,5 @@ requests
 aiohttp
 motor
 aiohttp
+pandas
+openpyxl
