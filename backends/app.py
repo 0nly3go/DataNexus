@@ -12,6 +12,9 @@ from database import write_to_db
 from async_chat import asy_chat_in
 from async_database import asy_write_to_db
 
+from dotenv import load_dotenv
+load_dotenv()  # This loads the variables from .env
+
 app = flask.Flask(__name__)
 CORS(app)  # Enable CORS for all routes
 
