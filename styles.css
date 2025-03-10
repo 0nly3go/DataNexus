@@ -1,13 +1,9 @@
-/* CSS variables and base styles */
+/* Simplified and centered CSS */
 :root {
     --maroon: #800000;
     --maroon-dark: #660000;
     --gold: #B8860B;
     --smoke: #eeeeee;
-    --orange: #D35400;
-    --yellow: #F1C40F;
-    --teal: #517A78;
-    --green: #708238;
 }
 
 * {
@@ -19,35 +15,36 @@
 body {
     min-height: 100vh;
     background-color: #ffffff;
-    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, sans-serif;
     padding: 2rem 1rem;
+}
+
+.container {
+    max-width: 800px;
+    margin: 0 auto;
 }
 
 .card {
     width: 100%;
-    min-height: 100vh;
-    margin: 0;
     background: white;
     border-radius: 10px;
-    box-shadow: 0 4px 6px rgba(102, 0, 0, 0.1), 0 1px 3px rgba(102, 0, 0, 0.08);
-    padding: 1rem;
-}
-
-.card-content {
-    padding: 0;
-    padding-top: 1rem;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    padding: 2rem;
+    margin-bottom: 2rem;
 }
 
 h1 {
-    font-size: 2.25rem;
+    font-size: 2rem;
     font-weight: bold;
     margin-bottom: 1rem;
     color: var(--maroon);
+    text-align: center;
 }
 
 .description {
     color: #666;
-    margin-bottom: 2rem;
+    margin-bottom: 1.5rem;
+    text-align: center;
 }
 
 .progress-bar {
@@ -83,15 +80,15 @@ h2 {
 
 textarea, input[type="text"] {
     width: 100%;
-    padding: 0.5rem;
-    border: 1px solid var(--gold);
+    padding: 0.75rem;
+    border: 1px solid #ccc;
     border-radius: 0.5rem;
     margin-bottom: 1rem;
     font-family: inherit;
 }
 
 textarea {
-    min-height: 200px;
+    min-height: 150px;
     resize: vertical;
 }
 
@@ -101,33 +98,6 @@ textarea:focus, input[type="text"]:focus {
     box-shadow: 0 0 0 2px rgba(184, 134, 11, 0.2);
 }
 
-.radio-group {
-    display: flex;
-    flex-direction: column;
-    gap: 1rem;
-}
-
-.radio-label {
-    display: flex;
-    align-items: center;
-    gap: 0.75rem;
-    cursor: pointer;
-}
-
-input[type="radio"] {
-    width: 1rem;
-    height: 1rem;
-    cursor: pointer;
-    accent-color: var(--gold);
-}
-
-.result-box {
-    background-color: var(--smoke);
-    padding: 2rem 3rem;
-    border-radius: 0.5rem;
-    margin-bottom: 1rem;
-}
-
 .button-group {
     display: flex;
     justify-content: space-between;
@@ -135,32 +105,26 @@ input[type="radio"] {
 }
 
 .btn {
-    padding: 0.5rem 1rem;
+    padding: 0.5rem 1.5rem;
     border-radius: 0.375rem;
     font-weight: 500;
     cursor: pointer;
     transition: all 0.2s;
+    border: none;
+    background-color: #f0f0f0;
 }
 
 .btn-primary {
     background-color: var(--maroon);
     color: white;
-    border: none;
 }
 
 .btn-primary:hover {
     background-color: var(--maroon-dark);
 }
 
-.btn-outline {
-    background-color: transparent;
-    border: 1px solid var(--maroon);
-    color: var(--maroon);
-}
-
-.btn-outline:hover {
-    background-color: var(--maroon);
-    color: white;
+.btn:hover {
+    opacity: 0.9;
 }
 
 .loading-spinner {
@@ -170,25 +134,24 @@ input[type="radio"] {
     width: 2rem;
     height: 2rem;
     animation: spin 1s linear infinite;
-    margin: auto;
+    margin: 1rem auto;
 }
 
 @keyframes spin {
-    from {
-        transform: rotate(0deg);
-    }
-    to {
-        transform: rotate(360deg);
-    }
+    to { transform: rotate(360deg); }
 }
 
-/* Leaderboard styles from customChatBots */
+/* Leaderboard styles */
 .leaderboard {
-    margin-top: 2rem;
-    padding: 1rem;
-    background: #fff;
+    background: white;
     border-radius: 8px;
     box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+    padding: 1.5rem;
+}
+
+.leaderboard h2 {
+    text-align: center;
+    margin-bottom: 1.5rem;
 }
 
 .leaderboard table {
@@ -203,6 +166,11 @@ input[type="radio"] {
     border-bottom: 1px solid #eee;
 }
 
+.leaderboard th {
+    background-color: var(--maroon);
+    color: white;
+}
+
 .qr-section {
     margin-top: 2rem;
     text-align: center;
@@ -213,142 +181,71 @@ input[type="radio"] {
     padding: 1rem;
     background: #fff;
     border-radius: 8px;
+    margin-top: 0.5rem;
 }
 
-/* Additional styles for DataNexus pages */
-.hero-section {
+/* Results styles */
+#outputResult {
+    margin: 1rem 0;
+}
+
+.score-summary {
     text-align: center;
-    padding: 2rem 0;
-}
-
-.lead {
-    font-size: 1.5rem;
-    color: var(--maroon);
-    margin-bottom: 2rem;
-}
-
-.event-details {
-    display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
-    gap: 2rem;
-    margin: 2rem 0;
-}
-
-.info-box {
-    background: var(--smoke);
-    padding: 1.5rem;
-    border-radius: 8px;
-    text-align: center;
-}
-
-.info-box h3 {
-    color: var(--maroon);
-    margin-bottom: 0.5rem;
-}
-
-.description-box {
-    max-width: 800px;
-    margin: 2rem auto;
-    padding: 2rem;
-    background: var(--smoke);
-    border-radius: 8px;
-}
-
-.description-box h2 {
-    color: var(--maroon);
-    margin-bottom: 1rem;
-}
-
-.cta-buttons {
-    display: flex;
-    gap: 1rem;
-    justify-content: center;
-    margin-top: 2rem;
-}
-
-/* Form Styles */
-.form-container {
-    max-width: 600px;
-    margin: 0 auto;
-    padding: 2rem;
-}
-
-.form-group {
     margin-bottom: 1.5rem;
 }
 
-.form-group label {
-    display: block;
-    margin-bottom: 0.5rem;
-    color: var(--maroon);
-    font-weight: 500;
+.score-bar-container {
+    width: 100%;
+    background-color: #e0e0e0;
+    border-radius: 4px;
+    margin: 1rem 0;
 }
 
-/* Leaderboard Styles */
-.leaderboard-container {
-    max-width: 800px;
-    margin: 2rem auto;
+.score-bar {
+    height: 20px;
+    border-radius: 4px;
+    transition: width 1s ease-in-out;
 }
 
-.leaderboard-table {
+.evaluation-feedback {
+    padding: 1rem;
+    background: #f9f9f9;
+    border-radius: 8px;
+    line-height: 1.5;
+}
+
+.evaluation-feedback table {
     width: 100%;
     border-collapse: collapse;
-    background: white;
-    box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+    margin: 1rem 0;
 }
 
-.leaderboard-table th,
-.leaderboard-table td {
+.evaluation-feedback th, 
+.evaluation-feedback td {
+    padding: 8px;
+    border: 1px solid #ddd;
+}
+
+.error-message {
+    background-color: #ffebee;
+    border-left: 4px solid #f44336;
     padding: 1rem;
-    text-align: left;
-    border-bottom: 1px solid var(--smoke);
+    margin: 1rem 0;
+    border-radius: 4px;
 }
 
-.leaderboard-table th {
-    background: var(--maroon);
-    color: white;
-}
-
-/* Rules Section */
-.rules-container {
-    max-width: 800px;
-    margin: 0 auto;
-}
-
-.rule-section {
-    margin-bottom: 2rem;
-    padding: 1.5rem;
-    background: var(--smoke);
-    border-radius: 8px;
-}
-
-.rule-section h3 {
-    color: var(--maroon);
-    margin-bottom: 1rem;
-}
-
-/* Responsive Design */
-@media (max-width: 768px) {
-    .event-details {
-        grid-template-columns: 1fr;
-    }
-
-    .cta-buttons {
-        flex-direction: column;
-    }
-
-    .info-box {
-        margin-bottom: 1rem;
-    }
-}
-
+/* Responsive adjustments */
 @media (max-width: 640px) {
     .button-group {
         flex-direction: column;
-        gap: 1rem;
+        gap: 0.75rem;
     }
-
+    
     .btn {
         width: 100%;
+    }
+    
+    .card {
+        padding: 1.5rem;
     }
 }

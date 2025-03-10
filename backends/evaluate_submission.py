@@ -4,18 +4,11 @@ import re
 import sys
 from openai import OpenAI
 from dotenv import load_dotenv
+from difflib import SequenceMatcher
 
 def evaluate_song_file(file_path, team_name, prompt):
     """
     Evaluates a song data Excel file based on user prompt and calculates a score.
-    
-    Parameters:
-        file_path (str): Path to the Excel file
-        team_name (str): Name of the team being evaluated
-        prompt (str): User prompt for evaluation criteria
-    
-    Returns:
-        dict: Results including score, feedback, and status
     """
     load_dotenv()  # Load environment variables from .env file
     
@@ -25,100 +18,51 @@ def evaluate_song_file(file_path, team_name, prompt):
             return {"error": f"File not found: {file_path}", "status": "error"}
             
         # Read the Excel file
-        if file_path.endswith('.csv'):
-            df = pd.read_csv(file_path)
-        else:
-            df = pd.read_excel(file_path)
+        df = pd.read_excel(file_path)
+        
+        # Check if required columns exist
+        required_columns = ["Lyrics (4-8 lines, 50-100 words)", "Genre"]
+        for col in required_columns:
+            if col not in df.columns:
+                return {"error": f"Required column '{col}' not found in the Excel file", "status": "error"}
+        
+        # Use song genre evaluation function
+        evaluation_results = evaluate_song_genres(df, prompt)
+        
+        # Generate detailed feedback
+        feedback = f"""# Prompt Engineering Score: {evaluation_results['score']}/100
+
+## Summary
+- **Correct Classifications**: {evaluation_results['correct_count']}/{evaluation_results['total_count']}
+- **Accuracy**: {evaluation_results['score']}%
+- **Prompt Used**: "{prompt}"
+
+## Detailed Results
+
+| Song | Expected Genre | Predicted Genre | Result |
+|------|---------------|----------------|--------|
+"""
+        
+        # Add first 5 results to feedback table
+        for i, result in enumerate(evaluation_results['results'][:5]):
+            feedback += f"| {i+1} | {result['Expected Genre']} | {result['Predicted Genre']} | {'✓' if result['Correct'] else '✗'} |\n"
+        
+        if len(evaluation_results['results']) > 5:
+            feedback += f"\n*...and {len(evaluation_results['results'])-5} more songs*\n"
             
-        # Get data statistics
-        data_stats = {
-            'columns': list(df.columns),
-            'rows': len(df),
-            'missing_values': df.isna().sum().to_dict(),
-            'data_types': {col: str(df[col].dtype) for col in df.columns},
-            'unique_values': {col: df[col].nunique() for col in df.columns}
-        }
-        
-        # Generate sample insights from the data
-        insights = []
-        
-        # Check for numeric columns to get basic stats
-        numeric_cols = df.select_dtypes(include=['number']).columns
-        if len(numeric_cols) > 0:
-            for col in numeric_cols[:3]:  # Limit to first 3 numeric columns
-                insights.append(f"{col} - Min: {df[col].min()}, Max: {df[col].max()}, Mean: {df[col].mean():.2f}")
-        
-        # Check for categorical columns
-        cat_cols = df.select_dtypes(include=['object', 'category']).columns
-        if len(cat_cols) > 0:
-            for col in cat_cols[:3]:  # Limit to first 3 categorical columns
-                top_values = df[col].value_counts().head(3).to_dict()
-                insights.append(f"{col} - Top values: {top_values}")
-        
-        # Prepare system prompt for evaluation
-        if not prompt or prompt.strip() == '':
-            # Default prompt if none provided
-            system_prompt = """You are an expert data scientist evaluating song data for a hackathon.
-            Evaluate the Excel data based on data quality, insights, and presentation.
-            
-            Provide:
-            1. A score from 0-100
-            2. Detailed feedback on strengths and weaknesses
-            3. Suggestions for improvement
-            
-            Start your response with "Score: XX/100" where XX is the numerical score."""
-        else:
-            system_prompt = f"""You are an expert data scientist evaluating song data for a hackathon.
-            Evaluate the Excel data based on the following criteria:
-            {prompt}
-            
-            Provide:
-            1. A score from 0-100
-            2. Detailed feedback on strengths and weaknesses
-            3. Suggestions for improvement
-            
-            Start your response with "Score: XX/100" where XX is the numerical score."""
-        
-        # Sample data for the AI to evaluate
-        sample_data = df.head(5).to_dict('records')
-        
-        # Format data description for the AI
-        data_description = f"""
-        Dataset Summary for {os.path.basename(file_path)} submitted by {team_name}:
-        
-        Overview:
-        - Total rows: {data_stats['rows']}
-        - Total columns: {len(data_stats['columns'])}
-        - Column names: {', '.join(data_stats['columns'])}
-        
-        Data types:
-        {'-' + '-'.join([f"{col}: {data_stats['data_types'][col]}" for col in list(data_stats['data_types'].keys())[:5]])}
-        
-        Unique values per column:
-        {'-' + '-'.join([f"{col}: {data_stats['unique_values'][col]}" for col in list(data_stats['unique_values'].keys())[:5]])}
-        
-        Sample insights:
-        {'-' + '-'.join(insights)}
-        
-        Sample data (first 5 rows):
-        {sample_data}
-        """
-        
-        # Make OpenAI API call
-        client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
-        response = client.chat.completions.create(
-            model="gpt-4o",
-            messages=[
-                {"role": "system", "content": system_prompt},
-                {"role": "user", "content": data_description}
-            ]
-        )
-        
-        feedback = response.choices[0].message.content
-        
-        # Extract score from feedback
-        score_match = re.search(r"Score:\s*(\d+)", feedback)
-        score = int(score_match.group(1)) if score_match else 70  # Default score if not found
+        feedback += f"""
+## Analysis
+
+Your prompt: "{prompt}"
+
+### Strengths
+- {evaluation_results['correct_count']} out of {evaluation_results['total_count']} songs were correctly classified
+- Your prompt {'performed very well' if evaluation_results['score'] > 80 else 'performed moderately well' if evaluation_results['score'] > 50 else 'needs improvement'}
+
+### Areas for Improvement
+- {'Consider being more specific about musical elements and lyrical patterns' if evaluation_results['score'] < 90 else 'Minor refinements could achieve perfect accuracy'}
+- {'Focus on distinguishing between similar genres' if evaluation_results['score'] < 80 else 'Your approach effectively distinguishes between genres'}
+"""
         
         # Save results to leaderboard
         data_dir = os.path.join(os.path.dirname(__file__), 'data')
@@ -135,12 +79,12 @@ def evaluate_song_file(file_path, team_name, prompt):
         
         # Update or add team
         if team_name in leaderboard_df['name'].values:
-            leaderboard_df.loc[leaderboard_df['name'] == team_name, 'score'] = score
+            leaderboard_df.loc[leaderboard_df['name'] == team_name, 'score'] = evaluation_results['score']
             leaderboard_df.loc[leaderboard_df['name'] == team_name, 'last_updated'] = pd.Timestamp.now().isoformat()
         else:
             new_row = pd.DataFrame({
                 'name': [team_name],
-                'score': [score],
+                'score': [evaluation_results['score']],
                 'last_updated': [pd.Timestamp.now().isoformat()]
             })
             leaderboard_df = pd.concat([leaderboard_df, new_row], ignore_index=True)
@@ -157,14 +101,24 @@ def evaluate_song_file(file_path, team_name, prompt):
         eval_file = os.path.join(evaluations_dir, f"{team_name}_{pd.Timestamp.now().strftime('%Y%m%d_%H%M%S')}.txt")
         with open(eval_file, 'w') as f:
             f.write(f"Team: {team_name}\n")
-            f.write(f"Score: {score}/100\n")
-            f.write(f"File: {file_path}\n\n")
-            f.write(f"Evaluation:\n{feedback}\n")
+            f.write(f"Score: {evaluation_results['score']}/100\n")
+            f.write(f"Correct: {evaluation_results['correct_count']}/{evaluation_results['total_count']}\n")
+            f.write(f"Prompt: {prompt}\n\n")
+            f.write("Detailed Results:\n\n")
+            
+            for i, result in enumerate(evaluation_results['results']):
+                f.write(f"Song {i+1}:\n")
+                f.write(f"Lyrics: {result['Lyrics'][:100]}...\n")
+                f.write(f"Expected Genre: {result['Expected Genre']}\n")
+                f.write(f"Predicted Genre: {result['Predicted Genre']}\n")
+                f.write(f"Correct: {'Yes' if result['Correct'] else 'No'}\n\n")
         
         return {
             "team": team_name,
-            "score": score,
+            "score": evaluation_results['score'],
             "feedback": feedback,
+            "correct": evaluation_results['correct_count'],
+            "total": evaluation_results['total_count'],
             "status": "success"
         }
         
@@ -174,6 +128,82 @@ def evaluate_song_file(file_path, team_name, prompt):
         print(f"Error evaluating file: {str(e)}")
         print(error_details)
         return {"error": str(e), "details": error_details, "status": "error"}
+
+def calculate_similarity(a, b):
+    """Calculate string similarity using SequenceMatcher."""
+    return SequenceMatcher(None, a.lower(), b.lower()).ratio()
+
+def is_correct_genre(expected, predicted, match_method="contains"):
+    """Check if the predicted genre matches the expected genre."""
+    expected = expected.lower().strip()
+    predicted = predicted.lower().strip()
+    
+    if match_method == "exact":
+        return expected == predicted
+    elif match_method == "contains":
+        return expected in predicted or predicted in expected
+    elif match_method == "fuzzy":
+        # Consider it a match if similarity is at least 0.8
+        return calculate_similarity(expected, predicted) >= 0.8
+    else:
+        return False
+
+def evaluate_song_genres(df, prompt, model="gpt-4o-mini"):
+    """Evaluate each song in the dataset using the provided prompt."""
+    results = []
+    correct_count = 0
+    total_count = len(df)
+    client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
+    
+    for idx, row in df.iterrows():
+        lyrics = row["Lyrics (4-8 lines, 50-100 words)"]
+        expected_genre = row["Genre"]
+        
+        # Combine lyrics with the user prompt
+        combined_text = f"{lyrics}\n\n{prompt}"
+        
+        try:
+            # Call OpenAI API
+            completion = client.chat.completions.create(
+                model=model,
+                messages=[{"role": "user", "content": combined_text}],
+                temperature=0.0
+            )
+            
+            # Extract the predicted genre
+            predicted_genre = completion.choices[0].message.content.strip()
+            
+            # Check if prediction is correct (using contains method by default)
+            is_correct = is_correct_genre(expected_genre, predicted_genre, "contains")
+            if is_correct:
+                correct_count += 1
+                
+            # Store result
+            results.append({
+                "Lyrics": lyrics,
+                "Expected Genre": expected_genre,
+                "Predicted Genre": predicted_genre,
+                "Correct": is_correct
+            })
+            
+        except Exception as e:
+            print(f"Error processing song {idx+1}: {e}")
+            results.append({
+                "Lyrics": lyrics,
+                "Expected Genre": expected_genre,
+                "Predicted Genre": "ERROR",
+                "Correct": False
+            })
+    
+    # Calculate score
+    score = int((correct_count / total_count) * 100) if total_count > 0 else 0
+    
+    return {
+        "results": results,
+        "score": score,
+        "correct_count": correct_count,
+        "total_count": total_count
+    }
 
 if __name__ == "__main__":
     # This script can be run directly from command line

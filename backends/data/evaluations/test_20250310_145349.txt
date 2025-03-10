@@ -1,0 +1,1674 @@
+Team: test
+Score: 66/100
+Correct: 132/200
+Prompt: classify the genre in one word
+
+
+Detailed Results:
+
+Song 1:
+Lyrics: Me-meet me at The London
+If you find time, we can run one
+Talk about some things we can't undo
+You j...
+Expected Genre: Hip-Hop
+Predicted Genre: Hip-hop
+Correct: Yes
+
+Song 2:
+Lyrics: Hunnid bands in my pocket, it's on me
+Hunnid deep when I roll like the army
+Get more bottles, these ...
+Expected Genre: Hip-Hop
+Predicted Genre: Hip-hop
+Correct: Yes
+
+Song 3:
+Lyrics: So why send oppression, not blessings?
+Why, oh, why'd You do me wrong? (More)
+You persecute the weak...
+Expected Genre: Hip-Hop
+Predicted Genre: Rock
+Correct: No
+
+Song 4:
+Lyrics: The Chanel or Balenciaga, Louis and Vuitton
+She know I got the Fendi, Prada when I hit Milan
+I neede...
+Expected Genre: Hip-Hop
+Predicted Genre: Hip-hop
+Correct: Yes
+
+Song 5:
+Lyrics: Workin' on a weekend like usual
+Way off in the deep end like usual (Like usual)
+they swear they pass...
+Expected Genre: Hip-Hop
+Predicted Genre: Hip-hop
+Correct: Yes
+
+Song 6:
+Lyrics: This where my head is (Listen)
+I feel resentment from every direction
+Even some homies be wearing ex...
+Expected Genre: Hip-Hop
+Predicted Genre: Hip-hop
+Correct: Yes
+
+Song 7:
+Lyrics: I just mind my business
+I got brothers that did the time, I ain't kiddin'
+All these rappers just tal...
+Expected Genre: Hip-Hop
+Predicted Genre: Hip-hop
+Correct: Yes
+
+Song 8:
+Lyrics: I been movin' calm, don't start no trouble with me
+Tryna keep it peaceful is a struggle for me
+Don't...
+Expected Genre: Hip-Hop
+Predicted Genre: Hip-hop
+Correct: Yes
+
+Song 9:
+Lyrics: You can get the biggest Chanel bag in the store if you want it
+I gave 'em the drip, they sucked it u...
+Expected Genre: Hip-Hop
+Predicted Genre: Hip-hop
+Correct: Yes
+
+Song 10:
+Lyrics: Strength and guidance
+All that I'm wishin' for my friends
+Nobody makes it from my ends
+I had to bust...
+Expected Genre: Hip-Hop
+Predicted Genre: Hip-hop
+Correct: Yes
+
+Song 11:
+Lyrics: I ain't lost since I began, yeah
+Funny how you said it was the end, yeah
+Then I went did it again, y...
+Expected Genre: Hip-Hop
+Predicted Genre: Hip-hop
+Correct: Yes
+
+Song 12:
+Lyrics: I been overseas goin' crazy (yeah)
+I can tell you love it when we made up (ayy)
+Black and gray diamo...
+Expected Genre: Hip-Hop
+Predicted Genre: Hip-hop
+Correct: Yes
+
+Song 13:
+Lyrics: Got a penthouse near Rodeo off of stress (Stress)
+All this money, when I grew up, I had nothing (Not...
+Expected Genre: Hip-Hop
+Predicted Genre: Hip-hop
+Correct: Yes
+
+Song 14:
+Lyrics: Why you always in a mood?
+Messin' 'round, actin' brand new
+I ain't tryna tell you what to do
+But try...
+Expected Genre: Hip-Hop
+Predicted Genre: Hip-hop
+Correct: Yes
+
+Song 15:
+Lyrics: She saw my eyes, she know I'm gone (ah)
+I see some things that you might fear
+I'm doin' a show, I'll...
+Expected Genre: Hip-Hop
+Predicted Genre: Hip-hop
+Correct: Yes
+
+Song 16:
+Lyrics: Cause you make my earth quake
+Oh, you make my earth quake
+Riding around, your love is shakin' me up ...
+Expected Genre: Hip-Hop
+Predicted Genre: Hip-hop
+Correct: Yes
+
+Song 17:
+Lyrics: Look, I just flipped the switch (flipped, flipped)
+I don't know nobody else that's doin' this
+Bodies...
+Expected Genre: Hip-Hop
+Predicted Genre: Hip-hop
+Correct: Yes
+
+Song 18:
+Lyrics: Ayy, Bottega shades with the grey tints
+Introduce me to her n-, yeah, it make sense
+Gotta put her on...
+Expected Genre: Hip-Hop
+Predicted Genre: Hip-hop
+Correct: Yes
+
+Song 19:
+Lyrics: I'm on everything
+Jacob charged me four-fifty for a tennis chain
+US Open, had it on us at the tennis...
+Expected Genre: Hip-Hop
+Predicted Genre: Hip-hop
+Correct: Yes
+
+Song 20:
+Lyrics: Gotta keep it on me, I don't wanna die young
+I rather be judged by twelve, than carried by six
+I'ma ...
+Expected Genre: Hip-Hop
+Predicted Genre: Hip-hop
+Correct: Yes
+
+Song 21:
+Lyrics: "Sorry I'm never comin' home I'ma stay for good"
+Then hang the phone up, and proceed to lay the wood...
+Expected Genre: Hip-Hop
+Predicted Genre: Hip-hop
+Correct: Yes
+
+Song 22:
+Lyrics: Yeah, Moncler, yuh, fur came off a bear, yuh (yeah)
+Triple homicide, put me in a chair, yuh (in jail...
+Expected Genre: Hip-Hop
+Predicted Genre: Hip-hop
+Correct: Yes
+
+Song 23:
+Lyrics: I try not to wear nothing twice
+I came up off of shooting dice, yeah
+My lil' brother ain't living ri...
+Expected Genre: Hip-Hop
+Predicted Genre: Hip-hop
+Correct: Yes
+
+Song 24:
+Lyrics: The dash, it's digi', the schedule busy
+My head in a hoodie, my shorty a goodie
+My cousins are crazy...
+Expected Genre: Hip-Hop
+Predicted Genre: Hip-hop
+Correct: Yes
+
+Song 25:
+Lyrics: Okay, alright, that's fine, okay (okay)
+I'm feelin' too sexy to accept requests (way too sexy)
+And I...
+Expected Genre: Hip-Hop
+Predicted Genre: Hip-hop
+Correct: Yes
+
+Song 26:
+Lyrics: I can see the whole city from this balcony
+Back in 2019, I was outside freely
+But now they got it ou...
+Expected Genre: Hip-Hop
+Predicted Genre: Hip-hop
+Correct: Yes
+
+Song 27:
+Lyrics: Man, we could be superstars
+We been ridin', wreckin' cars (ayy bro, is that Jambo?)
+What is at stake...
+Expected Genre: Hip-Hop
+Predicted Genre: Hip-hop
+Correct: Yes
+
+Song 28:
+Lyrics: You spend what you want and you get what you want
+I guess you got what you wanted
+You're hittin' the...
+Expected Genre: Hip-Hop
+Predicted Genre: Hip-hop
+Correct: Yes
+
+Song 29:
+Lyrics: Gotta throw a party for my day ones
+They ain't in the studio, but they'll lay somethin'
+Rest in peac...
+Expected Genre: Hip-Hop
+Predicted Genre: Hip-hop
+Correct: Yes
+
+Song 30:
+Lyrics: Diamonds do the silly dance, I raise up the wine glass
+Metal detectors beepin', and security bypass
+...
+Expected Genre: Hip-Hop
+Predicted Genre: Hip-hop
+Correct: Yes
+
+Song 31:
+Lyrics: I've been wantin' somethin' I can feel
+Promise I am never lettin' up
+Money in your palm don't make y...
+Expected Genre: Hip-Hop
+Predicted Genre: Hip-hop
+Correct: Yes
+
+Song 32:
+Lyrics: My resume is real enough for two millenniums
+A better way to make a wave, stop defendin' them
+I medi...
+Expected Genre: Hip-Hop
+Predicted Genre: Hip-hop
+Correct: Yes
+
+Song 33:
+Lyrics: And all the times you wasn't chosen, well, I'll make it up to you
+All of the feelings you're not sho...
+Expected Genre: Hip-Hop
+Predicted Genre: Pop
+Correct: No
+
+Song 34:
+Lyrics: Two thirty baby, won't you meet me by The Bean?
+Too early, maybe later you can show me things
+You kn...
+Expected Genre: Hip-Hop
+Predicted Genre: Hip-hop
+Correct: Yes
+
+Song 35:
+Lyrics: Bought the Patek, I was movin' too fast
+New G-Wagon, I was movin' too fast
+Got the condo, I was movi...
+Expected Genre: Hip-Hop
+Predicted Genre: Hip-hop
+Correct: Yes
+
+Song 36:
+Lyrics: I can hear your tears when they drop over the phone
+Get mad at yourself 'cause you can't leave me al...
+Expected Genre: Hip-Hop
+Predicted Genre: Hip-hop
+Correct: Yes
+
+Song 37:
+Lyrics: We pop out at your party, I'm with the gang
+And it's gon' be a robbery, so tuck ya chain
+I'm a kille...
+Expected Genre: Hip-Hop
+Predicted Genre: Hip-hop
+Correct: Yes
+
+Song 38:
+Lyrics: I just picked up somethin' from Mercedes, it's a one of one
+Black exterior, the one that I want
+Red ...
+Expected Genre: Hip-Hop
+Predicted Genre: Hip-hop
+Correct: Yes
+
+Song 39:
+Lyrics: All my life (all my life)
+They been tryin' to keep me down (they been tryin' to keep me down)
+All th...
+Expected Genre: Hip-Hop
+Predicted Genre: Hip-hop
+Correct: Yes
+
+Song 40:
+Lyrics: I need someone to be patient with me
+Someone to get money with, not take it from me, look
+They don't...
+Expected Genre: Hip-Hop
+Predicted Genre: Hip-hop
+Correct: Yes
+
+Song 41:
+Lyrics: If you wanna run away with me, I know a galaxy
+And I can take you for a ride
+I had a premonition tha...
+Expected Genre: Pop
+Predicted Genre: Pop
+Correct: Yes
+
+Song 42:
+Lyrics: Tastes like strawberries on a summer evenin'
+And it sounds just like a song
+I want more berries and ...
+Expected Genre: Pop
+Predicted Genre: Pop
+Correct: Yes
+
+Song 43:
+Lyrics: Well, good for you, I guess you moved on really easily
+You found a new girl, and it only took a coup...
+Expected Genre: Pop
+Predicted Genre: Pop
+Correct: Yes
+
+Song 44:
+Lyrics: I saw you dancing in a crowded room, uh
+You look so happy when I'm not with you
+But then you saw me,...
+Expected Genre: Pop
+Predicted Genre: Pop
+Correct: Yes
+
+Song 45:
+Lyrics: They say, oh my God I see the way you shine
+Take your hand, my dear, and place them both in mine
+You...
+Expected Genre: Pop
+Predicted Genre: Pop
+Correct: Yes
+
+Song 46:
+Lyrics: Holdin' me back
+Gravity's holdin' me back
+I want you to hold out the palm of your hand
+Why don't we ...
+Expected Genre: Pop
+Predicted Genre: Pop
+Correct: Yes
+
+Song 47:
+Lyrics: Did a full 180, crazy
+Thinking 'bout the way I was
+Did the heartbreak change me? Maybe
+But look at w...
+Expected Genre: Pop
+Predicted Genre: Pop
+Correct: Yes
+
+Song 48:
+Lyrics: I took an arrow to the heart
+I never kissed a mouth that tastes like yours
+Strawberries and somethin...
+Expected Genre: Pop
+Predicted Genre: Pop
+Correct: Yes
+
+Song 49:
+Lyrics: I do the same thing I told you that I never would
+I told you I'd change, even when I knew I never co...
+Expected Genre: Pop
+Predicted Genre: Pop
+Correct: Yes
+
+Song 50:
+Lyrics: I got my peaches out in Georgia (oh yeah, shit)
+I get my weed from California (that's that shit)
+I t...
+Expected Genre: Pop
+Predicted Genre: R&B
+Correct: No
+
+Song 51:
+Lyrics: Golden, golden, golden
+As I open my eyes
+Hold it, focus, hoping
+Take me back to the light
+I know you...
+Expected Genre: Pop
+Predicted Genre: Pop
+Correct: Yes
+
+Song 52:
+Lyrics:  put my armor on, show you how strong I am
+I put my armor on, I'll show you that I am
+I'm unstoppabl...
+Expected Genre: Pop
+Predicted Genre: Pop
+Correct: Yes
+
+Song 53:
+Lyrics: When I'm away from you, I'm happier than ever
+Wish I could explain it better
+I wish it wasn't true
+G...
+Expected Genre: Pop
+Predicted Genre: Pop
+Correct: Yes
+
+Song 54:
+Lyrics: I'd walk through fire for you
+Just let me adore you
+Like it's the only thing I'll ever do
+Like it's ...
+Expected Genre: Pop
+Predicted Genre: Pop
+Correct: Yes
+
+Song 55:
+Lyrics: I'm going under and this time I fear there's no one to save me
+This all or nothing really got a way ...
+Expected Genre: Pop
+Predicted Genre: Pop
+Correct: Yes
+
+Song 56:
+Lyrics: There ain't no gold in this river
+That I've been washin' my hands in forever
+I know there is hope in...
+Expected Genre: Pop
+Predicted Genre: Pop
+Correct: Yes
+
+Song 57:
+Lyrics: Yeah, your boyfriend'll never understand me (understand me)
+'Cause I'm 'bout to pull this girl like ...
+Expected Genre: Pop
+Predicted Genre: Hip-hop
+Correct: No
+
+Song 58:
+Lyrics: I got my head out the sunroof
+I'm blasting our favorite tunes
+I only got one thing on my mind
+You go...
+Expected Genre: Pop
+Predicted Genre: Pop
+Correct: Yes
+
+Song 59:
+Lyrics: I've always been the one to say the first goodbye
+Had to love and lose a hundred million times
+Had t...
+Expected Genre: Pop
+Predicted Genre: Pop
+Correct: Yes
+
+Song 60:
+Lyrics: Why you callin' at 11:30
+When you only wanna do me dirty?
+But I hit right back 'cause you got that, ...
+Expected Genre: Pop
+Predicted Genre: Pop
+Correct: Yes
+
+Song 61:
+Lyrics: Go on dust your shoulders off, keep it moving
+Yes Lord, tryna get some new shit
+In there, swimwear, ...
+Expected Genre: Pop
+Predicted Genre: Hip-hop
+Correct: No
+
+Song 62:
+Lyrics: I swear I meant to mean the best when it ended
+Even tried to bite my tongue when you start
+Now you'r...
+Expected Genre: Pop
+Predicted Genre: Pop
+Correct: Yes
+
+Song 63:
+Lyrics: Youngblood thinks there's always tomorrow
+I miss your touch on nights when I'm hollow
+I know you cro...
+Expected Genre: Pop
+Predicted Genre: Pop
+Correct: Yes
+
+Song 64:
+Lyrics: Sometimes, all I think about is you
+Late nights in the middle of June
+Heat waves been fakin' me out
+...
+Expected Genre: Pop
+Predicted Genre: Pop
+Correct: Yes
+
+Song 65:
+Lyrics: Demons on my shoulder
+Monsters in my head
+Shadow in the water
+Will you be my friend?
+The world revol...
+Expected Genre: Pop
+Predicted Genre: Pop
+Correct: Yes
+
+Song 66:
+Lyrics: I saw you dancin' out the ocean
+Runnin' fast along the sand
+A spirit born of earth and water
+Fire fl...
+Expected Genre: Pop
+Predicted Genre: Pop
+Correct: Yes
+
+Song 67:
+Lyrics: You (you), you are (you are) my universe
+And I (I) just want (just want) to put you first
+And you (y...
+Expected Genre: Pop
+Predicted Genre: Pop
+Correct: Yes
+
+Song 68:
+Lyrics: Shoes on, get up in the morn'
+Cup of milk, let's rock and roll
+King Kong, kick the drum
+Rolling on l...
+Expected Genre: Pop
+Predicted Genre: Pop
+Correct: Yes
+
+Song 69:
+Lyrics: He said, "Let's get out of this town
+Drive out of the city, away from the crowds"
+I thought Heaven c...
+Expected Genre: Pop
+Predicted Genre: Pop
+Correct: Yes
+
+Song 70:
+Lyrics: Every time you come around, you know I can't say no
+Every time the sun goes down, I let you take con...
+Expected Genre: Pop
+Predicted Genre: Pop
+Correct: Yes
+
+Song 71:
+Lyrics: It's you and me
+It's you and me
+Won't be unhappy
+And if I only could
+I'd make a deal with God
+And I'...
+Expected Genre: Pop
+Predicted Genre: Alternative
+Correct: No
+
+Song 72:
+Lyrics: When it get numb, go crazy
+Wanna wild out 'cause lately, life's so short, but amazin'
+Late night par...
+Expected Genre: Pop
+Predicted Genre: Hip-hop
+Correct: No
+
+Song 73:
+Lyrics: Memories follow me left and right
+I can feel you over here, I can feel you over here
+You take up eve...
+Expected Genre: Pop
+Predicted Genre: Pop
+Correct: Yes
+
+Song 74:
+Lyrics: The universe must have divined this
+What am I gonna do? Not grab your wrist?
+I could be a better boy...
+Expected Genre: Pop
+Predicted Genre: Pop
+Correct: Yes
+
+Song 75:
+Lyrics: You said you hated the ocean, but you're surfin' now
+I said I'd love you for life, but I just sold o...
+Expected Genre: Pop
+Predicted Genre: Pop
+Correct: Yes
+
+Song 76:
+Lyrics: Now, I just fell in love
+And I just quit my job
+I'm gonna find new drive
+Damn, they work me so damn ...
+Expected Genre: Pop
+Predicted Genre: Pop
+Correct: Yes
+
+Song 77:
+Lyrics: She'd take the world off my shoulders if it was ever hard to move
+She'd turn the rain to a rainbow w...
+Expected Genre: Pop
+Predicted Genre: Pop
+Correct: Yes
+
+Song 78:
+Lyrics: Like a moth to a flame
+I'll pull you in, I'll pull you back to what you need initially
+It's just one...
+Expected Genre: Pop
+Predicted Genre: Pop
+Correct: Yes
+
+Song 79:
+Lyrics: Take a seat right over there, sat on the stairs
+Stay or leave, the cabinets are bare and I'm unaware...
+Expected Genre: Pop
+Predicted Genre: Pop
+Correct: Yes
+
+Song 80:
+Lyrics: If you wanna run away with me, I know a galaxy
+And I can take you for a ride
+I had a premonition tha...
+Expected Genre: Pop
+Predicted Genre: Pop
+Correct: Yes
+
+Song 81:
+Lyrics: Used to spend my nights out in a barroom
+Liquor was the only love I'd known
+But you rescued me from ...
+Expected Genre: Country
+Predicted Genre: Country
+Correct: Yes
+
+Song 82:
+Lyrics: Longneck ice cold beer never broke my heart
+Like diamond rings and football teams have torn this boy...
+Expected Genre: Country
+Predicted Genre: Country
+Correct: Yes
+
+Song 83:
+Lyrics: A few days 'fore he turned eighty
+He was sitting out back in a rocker
+He said, "What you been up to ...
+Expected Genre: Country
+Predicted Genre: Country
+Correct: Yes
+
+Song 84:
+Lyrics: My girl is bangin', she's so low maintenance
+Don't need no champagne-poppin' entertainment
+Take her ...
+Expected Genre: Country
+Predicted Genre: Hip-hop
+Correct: No
+
+Song 85:
+Lyrics: We've been burnin' both ends
+Keepin' the lights on
+So I've been thinkin' we need
+A little time alone...
+Expected Genre: Country
+Predicted Genre: Country
+Correct: Yes
+
+Song 86:
+Lyrics: Poor me, pour me another drink
+'Cause I don't wanna feel a thing
+No more, hell nah
+I just wanna sip ...
+Expected Genre: Country
+Predicted Genre: Country
+Correct: Yes
+
+Song 87:
+Lyrics: A cold beer's got twelve ounces
+A good truck's got maybe three hundred thousand
+You only get so much...
+Expected Genre: Country
+Predicted Genre: Country
+Correct: Yes
+
+Song 88:
+Lyrics: She asked me where I was from
+I said "Somewhere you never been to"
+Little town outside of Knoxville
+...
+Expected Genre: Country
+Predicted Genre: Country
+Correct: Yes
+
+Song 89:
+Lyrics: Water towers are made for hearts and names
+Friday nights are made for football games
+Fallin' leaves ...
+Expected Genre: Country
+Predicted Genre: Country
+Correct: Yes
+
+Song 90:
+Lyrics: Take my hand, let me make you mine
+I'm through waiting, taking my time
+Never felt like this before
+T...
+Expected Genre: Country
+Predicted Genre: Pop
+Correct: No
+
+Song 91:
+Lyrics: You say what if I hurt you
+What if I leave you
+What if I find somebody else
+And I don't need you
+Wha...
+Expected Genre: Country
+Predicted Genre: Country
+Correct: Yes
+
+Song 92:
+Lyrics: I've cheated and I've lied
+I've broke down and I've cried
+I've got nothing to hide no more
+I've love...
+Expected Genre: Country
+Predicted Genre: Country
+Correct: Yes
+
+Song 93:
+Lyrics: ve seen pick up lines and dive bar strangers slow dance
+I've seen happy hour two-for-ones turn to on...
+Expected Genre: Country
+Predicted Genre: Country
+Correct: Yes
+
+Song 94:
+Lyrics: I can still shut down a party
+I can hang with anybody
+I can drink whiskey and red wine
+Champagne all...
+Expected Genre: Country
+Predicted Genre: Country
+Correct: Yes
+
+Song 95:
+Lyrics: Do you love the rain, does it make you dance
+When you're drunk with your friends at a party?
+What's ...
+Expected Genre: Country
+Predicted Genre: Pop
+Correct: No
+
+Song 96:
+Lyrics: Someone asked me once in an interview
+"What was growing up like, where'd you go to school?
+And what ...
+Expected Genre: Country
+Predicted Genre: Country
+Correct: Yes
+
+Song 97:
+Lyrics: I never stay in one place too long
+A dirt road's singing me a siren song
+I gotta find a field
+I need...
+Expected Genre: Country
+Predicted Genre: Country
+Correct: Yes
+
+Song 98:
+Lyrics: What's goin' on, mama?
+Something just dawned on me
+I ain't been home in some months
+Been chasin' son...
+Expected Genre: Country
+Predicted Genre: Country
+Correct: Yes
+
+Song 99:
+Lyrics: You can tell your old man
+You'll do some largemouth fishing another time
+You just got too much on yo...
+Expected Genre: Country
+Predicted Genre: Country
+Correct: Yes
+
+Song 100:
+Lyrics: I was lost
+You found a way to bring me back
+Needed forgiveness
+You always gave me that
+Girl, I'm a w...
+Expected Genre: Country
+Predicted Genre: R&B
+Correct: No
+
+Song 101:
+Lyrics: I don't always wake up in the mornin'
+Pour myself a strong one
+Ah, but when I get lonely I do
+Your m...
+Expected Genre: Country
+Predicted Genre: Country
+Correct: Yes
+
+Song 102:
+Lyrics: Yeah I'm chillin' on a dirt road
+Laid back swervin' like I'm George Jones
+Smoke rollin' out the wind...
+Expected Genre: Country
+Predicted Genre: Country
+Correct: Yes
+
+Song 103:
+Lyrics: Half of my high school fell in love
+With the girl next door
+In their daddy's Ford
+Half of my main st...
+Expected Genre: Country
+Predicted Genre: Country
+Correct: Yes
+
+Song 104:
+Lyrics: When the sun goes down on my side of town
+That lonesome feeling comes to my door
+And the whole world...
+Expected Genre: Country
+Predicted Genre: Country
+Correct: Yes
+
+Song 105:
+Lyrics: A heart on the run
+Keeps a hand on a gun
+Can't trust anyone
+I was so sure
+What I needed was more
+Tri...
+Expected Genre: Country
+Predicted Genre: Country
+Correct: Yes
+
+Song 106:
+Lyrics: It'll be fine by dusk light I'm tellin' you, baby
+These things eat at your bones and drive your youn...
+Expected Genre: Country
+Predicted Genre: Indie
+Correct: No
+
+Song 107:
+Lyrics: "Heads Carolina, tails California"
+Maybe she'd fall for a boy from South Georgia
+She's got the bar i...
+Expected Genre: Country
+Predicted Genre: Country
+Correct: Yes
+
+Song 108:
+Lyrics: My big brother rode an Indian Scout
+It was black like his jacket
+American Spirit hangin' outta his m...
+Expected Genre: Country
+Predicted Genre: Country
+Correct: Yes
+
+Song 109:
+Lyrics: If I could buy a house on Memory Lane
+I'd put my money down and I'd sign my name
+On that little corn...
+Expected Genre: Country
+Predicted Genre: Country
+Correct: Yes
+
+Song 110:
+Lyrics: Yeah, I've been throwin' down the whiskey
+I oughta get my money back
+And someone said it drowns a me...
+Expected Genre: Country
+Predicted Genre: Country
+Correct: Yes
+
+Song 111:
+Lyrics: m a dirt road in the headlights
+I'm a mama's boy, I'm a fist fight
+Kinda county line, kinda cold bee...
+Expected Genre: Country
+Predicted Genre: Country
+Correct: Yes
+
+Song 112:
+Lyrics: And I know that I can't ever tell you enough
+That all I need in this life is your crazy love
+If I ne...
+Expected Genre: Country
+Predicted Genre: Country
+Correct: Yes
+
+Song 113:
+Lyrics: I hope you both feel the sparks by the end of the drive
+I hope you know she's the one by the end of ...
+Expected Genre: Country
+Predicted Genre: Country
+Correct: Yes
+
+Song 114:
+Lyrics: Somebody save me, me from myself
+I've spent so long living in Hell
+They say my lifestyle is bad for ...
+Expected Genre: Country
+Predicted Genre: Rock
+Correct: No
+
+Song 115:
+Lyrics: I was no daddy's dream
+Was not your mama's prayer
+But I was your first and your
+Last ticket outta th...
+Expected Genre: Country
+Predicted Genre: Country
+Correct: Yes
+
+Song 116:
+Lyrics: Katie's sittin' on her old front porch
+Watchin' the chickens peck the ground
+There ain't a whole lot...
+Expected Genre: Country
+Predicted Genre: Country
+Correct: Yes
+
+Song 117:
+Lyrics: We were just a couple years short of the age
+By my name on a fake ID
+And still 'bout a hundred away ...
+Expected Genre: Country
+Predicted Genre: Country
+Correct: Yes
+
+Song 118:
+Lyrics: I told my mama
+I told my friends
+When it comes to her
+When it comes to him
+Never again
+Last time was...
+Expected Genre: Country
+Predicted Genre: Country
+Correct: Yes
+
+Song 119:
+Lyrics: Bein' the girl in a country song
+How in the world did it go so wrong?
+Like all we're good for is loo...
+Expected Genre: Country
+Predicted Genre: Country
+Correct: Yes
+
+Song 120:
+Lyrics: Used to spend my nights out in a barroom
+Liquor was the only love I'd known
+But you rescued me from ...
+Expected Genre: Country
+Predicted Genre: Country
+Correct: Yes
+
+Song 121:
+Lyrics: "Oh, don't you dare look back
+Just keep your eyes on me"
+I said, "You're holding back"
+She said, "Sh...
+Expected Genre: Rock
+Predicted Genre: Pop
+Correct: No
+
+Song 122:
+Lyrics: Breakin' my back just to know your name
+Seventeen tracks and I've had it with this game
+A breakin' m...
+Expected Genre: Rock
+Predicted Genre: Rock
+Correct: Yes
+
+Song 123:
+Lyrics: So if you're lonely
+You know I'm here waiting for you
+I'm just a cross-hair
+I'm just a shot away fro...
+Expected Genre: Rock
+Predicted Genre: Rock
+Correct: Yes
+
+Song 124:
+Lyrics: Comin' out of my cage and I've been doin' just fine
+Gotta, gotta be down because I want it all
+It st...
+Expected Genre: Rock
+Predicted Genre: Rock
+Correct: Yes
+
+Song 125:
+Lyrics: I'm gonna fight 'em off
+A seven nation army couldn't hold me back
+They're gonna rip it off
+Takin' th...
+Expected Genre: Rock
+Predicted Genre: Rock
+Correct: Yes
+
+Song 126:
+Lyrics: I'm waking up to ash and dust
+I wipe my brow and I sweat my rust
+I'm breathing in the chemicals
+I'm ...
+Expected Genre: Rock
+Predicted Genre: Electropop
+Correct: No
+
+Song 127:
+Lyrics: So this is what you meant
+When you said that you were spent
+And now it's time to build from the bott...
+Expected Genre: Rock
+Predicted Genre: Rock
+Correct: Yes
+
+Song 128:
+Lyrics: Time shakes, found you at the water
+At first you were my father
+Now I love you like a brother
+Earthq...
+Expected Genre: Rock
+Predicted Genre: Indie
+Correct: No
+
+Song 129:
+Lyrics: I heard them calling in the distance
+So I packed my things and ran
+Far away from all the trouble
+I h...
+Expected Genre: Rock
+Predicted Genre: Folk
+Correct: No
+
+Song 130:
+Lyrics: I don't like walking around this old and empty house
+So hold my hand, I'll walk with you my dear
+The...
+Expected Genre: Rock
+Predicted Genre: Alternative
+Correct: No
+
+Song 131:
+Lyrics: I was scared of dentists and the dark
+I was scared of pretty girls and starting conversations
+Oh, al...
+Expected Genre: Rock
+Predicted Genre: Indie
+Correct: No
+
+Song 132:
+Lyrics: I was left to my own devices
+Many days fell away with nothing to show
+And the walls kept tumbling do...
+Expected Genre: Rock
+Predicted Genre: Alternative
+Correct: No
+
+Song 133:
+Lyrics: I don't think you're right for him (Hey!)
+Look at what it might have been if you (Ho!)
+Took a bus to...
+Expected Genre: Rock
+Predicted Genre: Pop
+Correct: No
+
+Song 134:
+Lyrics: I, I, when I was younger
+I, I, should have known better
+And I can't feel no remorse
+And you don't fe...
+Expected Genre: Rock
+Predicted Genre: Indie
+Correct: No
+
+Song 135:
+Lyrics: I don't mind
+Letting you down easy, but just give it time
+If it don't hurt now then just wait, just ...
+Expected Genre: Rock
+Predicted Genre: Alternative
+Correct: No
+
+Song 136:
+Lyrics: Can't count the years on one hand that we've been together
+I need the other one to hold you
+Make you...
+Expected Genre: Rock
+Predicted Genre: Pop
+Correct: No
+
+Song 137:
+Lyrics: All that I want
+Is to wake up fine
+Tell me that I'm alright
+That I ain't gonna die
+All that I want
+I...
+Expected Genre: Rock
+Predicted Genre: Alternative
+Correct: No
+
+Song 138:
+Lyrics: Hey, don't write yourself off yet
+It's only in your head, you feel left out
+Or looked down on
+Just t...
+Expected Genre: Rock
+Predicted Genre: Pop
+Correct: No
+
+Song 139:
+Lyrics: Let me know that I've done wrong
+When I've known this all along
+I go around a time or two
+Just to wa...
+Expected Genre: Rock
+Predicted Genre: Pop
+Correct: No
+
+Song 140:
+Lyrics: Now, where's your picket fence, love?
+And where's that shiny car?
+And did it ever get you far?
+You n...
+Expected Genre: Rock
+Predicted Genre: Alternative
+Correct: No
+
+Song 141:
+Lyrics: I chime in
+"Haven't you people ever heard of closing the goddamn door?"
+No, it's much better to face...
+Expected Genre: Rock
+Predicted Genre: Pop
+Correct: No
+
+Song 142:
+Lyrics: I'm a leading man
+And the lies I weave are oh so intricate
+Oh so intricate
+I'm a leading man
+And the...
+Expected Genre: Rock
+Predicted Genre: Alternative
+Correct: No
+
+Song 143:
+Lyrics: Am I more than you bargained for yet?
+I've been dying to tell you
+Anything you wanna hear
+'Cause tha...
+Expected Genre: Rock
+Predicted Genre: Pop-punk
+Correct: No
+
+Song 144:
+Lyrics: Yeah
+Here we go
+It's a new day
+But it all feels old
+It's a good life
+That's what I'm told
+But everyt...
+Expected Genre: Rock
+Predicted Genre: Rock
+Correct: Yes
+
+Song 145:
+Lyrics: Hello, there
+The angel from my nightmare
+The shadow in the background of the morgue
+The unsuspecting...
+Expected Genre: Rock
+Predicted Genre: Alternative
+Correct: No
+
+Song 146:
+Lyrics: All the small things
+True care, truth brings
+I'll take one lift
+Your ride, best trip
+Always, I know
+...
+Expected Genre: Rock
+Predicted Genre: Pop-punk
+Correct: No
+
+Song 147:
+Lyrics: Please tell me why
+My car is in the front yard, and I'm
+Sleepin' with my clothes on
+I came in throug...
+Expected Genre: Rock
+Predicted Genre: Rock
+Correct: Yes
+
+Song 148:
+Lyrics: So one, two, three
+Take my hand and come with me
+Because you look so fine
+That I really wanna make y...
+Expected Genre: Rock
+Predicted Genre: Rock
+Correct: Yes
+
+Song 149:
+Lyrics: You hear this beat, uh, comin' like heavy metal, raow
+If you got a business, bro, please, set it in ...
+Expected Genre: Rock
+Predicted Genre: Hip-hop
+Correct: No
+
+Song 150:
+Lyrics: I've been roamin' around, always lookin' down at all I see
+Painted faces fill the places I can't rea...
+Expected Genre: Rock
+Predicted Genre: Rock
+Correct: Yes
+
+Song 151:
+Lyrics: The dog days are over, oh
+The dog days are done
+Can you hear the horses?
+'Cause here they come
+The d...
+Expected Genre: Rock
+Predicted Genre: Indie
+Correct: No
+
+Song 152:
+Lyrics: Regrets collect like old friends
+Here to relive your darkest moments
+I can see no way, I can see no ...
+Expected Genre: Rock
+Predicted Genre: Alternative
+Correct: No
+
+Song 153:
+Lyrics: Well I know when you're around 'cause I know the sound
+I know the sound, of your heart
+Well I know w...
+Expected Genre: Rock
+Predicted Genre: Indie
+Correct: No
+
+Song 154:
+Lyrics: Hey now, call it a split because I know that you will
+Oh-oh, you bite your friend like chocolate
+You...
+Expected Genre: Rock
+Predicted Genre: Pop
+Correct: No
+
+Song 155:
+Lyrics: Both your hands in the holes of my sweater
+And if I may just take your breath away
+I don't mind if t...
+Expected Genre: Rock
+Predicted Genre: Romance
+Correct: No
+
+Song 156:
+Lyrics: You used to get it in your fishnets
+Now you only get it in your night dress
+Discarded all the naught...
+Expected Genre: Rock
+Predicted Genre: Pop
+Correct: No
+
+Song 157:
+Lyrics: Have you got colour in your cheeks?
+Do you ever get that fear that you can't shift the type
+That sti...
+Expected Genre: Rock
+Predicted Genre: Indie
+Correct: No
+
+Song 158:
+Lyrics: I'm going back to 505
+If it's a seven hour flight or a forty-five minute drive
+In my imagination, yo...
+Expected Genre: Rock
+Predicted Genre: Pop
+Correct: No
+
+Song 159:
+Lyrics: We get some rules to follow
+That and this, these and those
+No one knows
+We get these pills to swallo...
+Expected Genre: Rock
+Predicted Genre: Alternative
+Correct: No
+
+Song 160:
+Lyrics: Come down, and waste away with me
+Down with me
+Slow, how you wanted it to be
+I'm over my head, out o...
+Expected Genre: Rock
+Predicted Genre: Alternative
+Correct: No
+
+Song 161:
+Lyrics: At times I wonder why I fool with you
+But this is new to me, this is new to you
+Initially, I didn't ...
+Expected Genre: R&B
+Predicted Genre: R&B
+Correct: Yes
+
+Song 162:
+Lyrics: Yeah, started off right
+I can see it in your eyes
+I can tell that you're wantin' more
+What's been on...
+Expected Genre: R&B
+Predicted Genre: Pop
+Correct: No
+
+Song 163:
+Lyrics: Covered in your water and I'm feeling like a summer breeze
+Submitted under power and you brought me ...
+Expected Genre: R&B
+Predicted Genre: Pop
+Correct: No
+
+Song 164:
+Lyrics: Feelings, so deep in my feelings
+No, this ain't really like me
+Can't control my anxiety
+Feeling, lik...
+Expected Genre: R&B
+Predicted Genre: R&B
+Correct: Yes
+
+Song 165:
+Lyrics: I put my feelings on safety
+So I don't go shootin' where your heart be
+'Cause you take the bullet tr...
+Expected Genre: R&B
+Predicted Genre: Hip-hop
+Correct: No
+
+Song 166:
+Lyrics: Round your city, 'round the clock
+Everybody needs you
+No, you can't make everybody equal
+Although yo...
+Expected Genre: R&B
+Predicted Genre: Hip-hop
+Correct: No
+
+Song 167:
+Lyrics: Through drought and famine, natural disasters
+My baby has been around for me
+Kingdoms have fallen, a...
+Expected Genre: R&B
+Predicted Genre: R&B
+Correct: Yes
+
+Song 168:
+Lyrics: You're the coffee that I need in the morning
+You're my sunshine in the rain when it's pouring
+Won't ...
+Expected Genre: R&B
+Predicted Genre: R&B
+Correct: Yes
+
+Song 169:
+Lyrics: Hands in the soap
+Have the faucet's running
+And I keep looking at you
+Stuck on your phone
+And you're...
+Expected Genre: R&B
+Predicted Genre: Pop
+Correct: No
+
+Song 170:
+Lyrics: If you got it, it ain't a question
+Ooh, it ain't no room for guessing
+No more than emotionally inves...
+Expected Genre: R&B
+Predicted Genre: R&B
+Correct: Yes
+
+Song 171:
+Lyrics: What you doing? (What you doing?)
+Where you at? (Where you at?)
+Oh, you got plans? (You got plans?)
+...
+Expected Genre: R&B
+Predicted Genre: R&B
+Correct: Yes
+
+Song 172:
+Lyrics: Diamonds on her neck, diamonds on her wrists
+And here I am all alone (All alone)
+I'm so cold, I'm so...
+Expected Genre: R&B
+Predicted Genre: R&B
+Correct: Yes
+
+Song 173:
+Lyrics: It's getting hard for me to hold my own
+See, nobody wants to be in love alone
+So I'm trying my best ...
+Expected Genre: R&B
+Predicted Genre: Pop
+Correct: No
+
+Song 174:
+Lyrics: On a scale of one to ten, I'm at a hundred
+Never get enough, I can't stay away
+If you want what I go...
+Expected Genre: R&B
+Predicted Genre: Pop
+Correct: No
+
+Song 175:
+Lyrics: 
+I try to keep from losin' the rest of me
+I worry that I wasted the best of me on you, babe
+You don'...
+Expected Genre: R&B
+Predicted Genre: Hip-hop
+Correct: No
+
+Song 176:
+Lyrics: I can't lose when I'm with you
+How can I snooze and miss the moment?
+You just too important
+Nobody d...
+Expected Genre: R&B
+Predicted Genre: R&B
+Correct: Yes
+
+Song 177:
+Lyrics: I'm still a fan even though I was salty
+Hate to see you with some other broad, know you happy
+Hate t...
+Expected Genre: R&B
+Predicted Genre: Pop
+Correct: No
+
+Song 178:
+Lyrics: If there's another universe
+Please make some noise (Noise)
+Give me a sign (Sign)
+This can't be life
+...
+Expected Genre: R&B
+Predicted Genre: Alternative
+Correct: No
+
+Song 179:
+Lyrics: Keep a place for me, for me
+I'll sleep between y'all, it's nothing
+It's nothing, it's nothing
+Keep a...
+Expected Genre: R&B
+Predicted Genre: Indie
+Correct: No
+
+Song 180:
+Lyrics: If I could, I would take the pain away
+I don't see that smile I made
+You already made plans that ain...
+Expected Genre: R&B
+Predicted Genre: Emo
+Correct: No
+
+Song 181:
+Lyrics: Sometimes a mystery, sometimes I'm free
+Depending on my mood or my attitude
+Sometimes I wanna roll o...
+Expected Genre: R&B
+Predicted Genre: Pop
+Correct: No
+
+Song 182:
+Lyrics: You're speaking a language no one speaks
+In a room that don't exist
+I'm just gonna shut up
+And bear ...
+Expected Genre: R&B
+Predicted Genre: Indie
+Correct: No
+
+Song 183:
+Lyrics: Been travelling these wide roads
+For so long
+My heart's been far from you
+Ten thousand miles gone
+Oh...
+Expected Genre: R&B
+Predicted Genre: Country
+Correct: No
+
+Song 184:
+Lyrics: Baby, I just don't get it, do you enjoy bein' hurt?
+I know you smelled the perfume, the makeup on hi...
+Expected Genre: R&B
+Predicted Genre: R&B
+Correct: Yes
+
+Song 185:
+Lyrics: Gotta change my answering machine
+Now that I'm alone
+'Cause right now it says that we
+Can't come to ...
+Expected Genre: R&B
+Predicted Genre: Pop
+Correct: No
+
+Song 186:
+Lyrics: Cause she walk like a boss, talk like a boss
+Manicured nails to set the pedicure off
+She's fly effor...
+Expected Genre: R&B
+Predicted Genre: R&B
+Correct: Yes
+
+Song 187:
+Lyrics: Can I tell you something, for what it's worth?
+With you, Heaven is a place on Earth
+And I will take ...
+Expected Genre: R&B
+Predicted Genre: Pop
+Correct: No
+
+Song 188:
+Lyrics: You gon' have to do more than just (Say it)
+You gon' have to do less when you (Do it)
+So mama you kn...
+Expected Genre: R&B
+Predicted Genre: R&B
+Correct: Yes
+
+Song 189:
+Lyrics: Balloons are deflated
+Guess they look lifeless like me
+We miss you on your side of the bed, mmm
+Stil...
+Expected Genre: R&B
+Predicted Genre: Pop
+Correct: No
+
+Song 190:
+Lyrics: I guess it's overdue
+Tell me your point of view
+Tell me, am I to blame?
+You're so good with change, ...
+Expected Genre: R&B
+Predicted Genre: Pop
+Correct: No
+
+Song 191:
+Lyrics: If this what you want, baby, okay
+He give you his all but you have no patience (Patience, patience)
+...
+Expected Genre: R&B
+Predicted Genre: R&B
+Correct: Yes
+
+Song 192:
+Lyrics: It's a dark science when your friends start dyin'
+Like, "How could he go? He was part-lion"
+Life goe...
+Expected Genre: R&B
+Predicted Genre: Hip-hop
+Correct: No
+
+Song 193:
+Lyrics: When you say that you love 'em and you really know
+Everything that used to matter don't matter no mo...
+Expected Genre: R&B
+Predicted Genre: R&B
+Correct: Yes
+
+Song 194:
+Lyrics: And girl, I feel like it's our first time every time we get together
+Baby, loving you feels better t...
+Expected Genre: R&B
+Predicted Genre: R&B
+Correct: Yes
+
+Song 195:
+Lyrics: Spotlights (Spotlights), big stage
+Fifty thousand fans screamin' in a rage
+Bodyguards (Bodyguards) a...
+Expected Genre: R&B
+Predicted Genre: Pop
+Correct: No
+
+Song 196:
+Lyrics: When I first saw you, I already knew
+There was something inside of you
+Something I thought that I wo...
+Expected Genre: R&B
+Predicted Genre: R&B
+Correct: Yes
+
+Song 197:
+Lyrics: I think it's time we got this straight
+Let's sit and talk face to face
+There is no way you could mis...
+Expected Genre: R&B
+Predicted Genre: Pop
+Correct: No
+
+Song 198:
+Lyrics: I just want you close
+Where you can stay forever
+You can be sure
+That it will only get better
+You an...
+Expected Genre: R&B
+Predicted Genre: Pop
+Correct: No
+
+Song 199:
+Lyrics: Some people live for the fortune
+Some people live just for the fame
+Some people live for the power, ...
+Expected Genre: R&B
+Predicted Genre: Pop
+Correct: No
+
+Song 200:
+Lyrics: Girl, I'm in love with you
+But this ain't the honeymoon
+We're passed the infatuation phase
+We're rig...
+Expected Genre: R&B
+Predicted Genre: R&B
+Correct: Yes
+

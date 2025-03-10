@@ -9,72 +9,67 @@
     <script src="https://cdnjs.cloudflare.com/ajax/libs/qrcodejs/1.0.0/qrcode.min.js"></script>
 </head>
 <body>
-    <div class="card"
-        data-total-steps="2"
-        data-prompt-file="prompts/datanexus.txt"
-        data-system-prompt="You are a music classification expert. Analyze lyrics and categorize them based on given criteria while providing clear explanations for your classification decisions."
-        data-model="gpt-4o"
-        data-chatbot-name="datanexus">
-       
-        <div class="card-content">
-            <h1>Song Classification Hackathon</h1>
-            <p class="description">Enter your classification prompt and rank songs accordingly.</p>
- 
+    <div class="container">
+        <div class="card">
             <div class="progress-bar">
                 <div class="progress-fill" id="progress"></div>
             </div>
- 
-            <!-- Step 1: Team Info & Classification -->
-            <div class="step active" id="step1">
-                <div class="input-group">
-                    <label for="team-name">Team Name:</label>
-                    <input type="text" id="team-name" maxlength="30" required>
-                   
-                    <label for="team-members">Team Members (max 3, comma-separated):</label>
-                    <input type="text" id="team-members" maxlength="100" required>
-                   
-                    <label for="inputText">Classification Prompt:</label>
-                    <textarea id="inputText" placeholder="Enter your classification criteria" required></textarea>
+
+            <div class="card-content">
+                <h1>Song Classification Hackathon</h1>
+                <p class="description">Enter your classification prompt and rank songs accordingly.</p>
+     
+                <!-- Step 1: Team Info & Classification -->
+                <div class="step active" id="step1">
+                    <div class="input-group">
+                        <label for="team-name">Team Name:</label>
+                        <input type="text" id="team-name" maxlength="30" required>
+                       
+                        <label for="team-members">Team Members (max 3, comma-separated):</label>
+                        <input type="text" id="team-members" maxlength="100" required>
+                       
+                        <label for="inputText">Classification Prompt:</label>
+                        <textarea id="inputText" placeholder="Enter your classification criteria" required></textarea>
+                    </div>
+                    <div class="button-group">
+                        <button class="btn btn-primary" id="continueBtn">Submit</button>
+                    </div>
                 </div>
-                <div class="button-group">
-                    <button class="btn btn-primary" id="continueBtn">Submit</button>
-                </div>
-            </div>
- 
-            <!-- Step 2: Results -->
-            <div class="step" id="step2">
-                <h2>Classification Results</h2>
-                <div id="outputResult"></div>
-                <div class="button-group">
-                    <button class="btn" id="backBtn">Back</button>
-                    <button class="btn" id="copyBtn">Copy</button>
+     
+                <!-- Step 2: Results -->
+                <div class="step" id="step2">
+                    <h2>Classification Results</h2>
+                    <div id="outputResult"></div>
+                    <div class="button-group">
+                        <button class="btn" id="backBtn">Back</button>
+                        <button class="btn" id="copyBtn">Copy</button>
+                    </div>
                 </div>
             </div>
         </div>
+       
+        <!-- Leaderboard Section -->
+        <div class="leaderboard">
+            <h2>Leaderboard</h2>
+            <table>
+                <thead>
+                    <tr>
+                        <th>Rank</th>
+                        <th>Team</th>
+                        <th>Score</th>
+                    </tr>
+                </thead>
+                <tbody id="leaderboard-body">
+                    <!-- Leaderboard data will be inserted here -->
+                </tbody>
+            </table>
+            <div class="qr-section">
+                <h3>Scan to Join</h3>
+                <div id="qrcode"></div>
+            </div>
+        </div>
     </div>
-   
-    <!-- Leaderboard Section -->
-    <div class="leaderboard">
-        <h2>Live Leaderboard</h2>
-        <table>
-            <thead>
-                <tr>
-                    <th>Rank</th>
-                    <th>Team</th>
-                    <th>Score</th>
-                </tr>
-            </thead>
-            <tbody id="leaderboard-body"></tbody>
-        </table>
-    </div>
- 
-    <!-- QR Code Section -->
-    <div class="qr-section">
-        <h3>Scan to Join</h3>
-        <div id="qrcode"></div>
-    </div>
- 
-    <script src="utils.js"></script>
+    
     <script src="datanexus.js"></script>
 </body>
 </html>
