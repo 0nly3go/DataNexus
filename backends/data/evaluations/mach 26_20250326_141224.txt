@@ -1,0 +1,1790 @@
+Team: mach 26
+Score: 86/100
+Correct: 172/200
+Prompt: classify the songs by genre 
+
+Detailed Results:
+
+Song 1:
+Lyrics: Me-meet me at The London
+If you find time, we can run one
+Talk about some things we can't undo
+You j...
+Expected Genre: Hip-Hop
+Predicted Genre: The lyrics you provided are from the song "The London" by Young Thug featuring J. Cole and Travis Scott. This song can be classified primarily as **Hip-Hop/Rap**. The genre is characterized by its rhythmic vocal style and often features themes related to urban life, relationships, and personal experiences.
+Correct: Yes
+
+Song 2:
+Lyrics: Hunnid bands in my pocket, it's on me
+Hunnid deep when I roll like the army
+Get more bottles, these ...
+Expected Genre: Hip-Hop
+Predicted Genre: The lyrics you provided are from the song "Wow." by Post Malone. This song can be classified primarily as **Hip-Hop/Rap**. It features elements typical of the genre, such as rhythmic vocal delivery and themes related to wealth and lifestyle.
+Correct: Yes
+
+Song 3:
+Lyrics: So why send oppression, not blessings?
+Why, oh, why'd You do me wrong? (More)
+You persecute the weak...
+Expected Genre: Hip-Hop
+Predicted Genre: The lyrics you've provided seem to reflect themes of struggle, oppression, and seeking hope or redemption. Based on these themes, the song could be classified into the following genres:
+
+1. **Rock** - Many rock songs explore themes of personal struggle and social issues.
+2. **Alternative** - The introspective and emotional nature of the lyrics fits well within the alternative genre.
+3. **Pop** - If the song has a catchy melody and structure, it could also fit into the pop genre.
+4. **Folk** - If the song has an acoustic or storytelling style, it could be classified as folk.
+
+Without more context about the music style, instrumentation, and overall sound, it's difficult to pinpoint a single genre, but these classifications are a good starting point.
+Correct: No
+
+Song 4:
+Lyrics: The Chanel or Balenciaga, Louis and Vuitton
+She know I got the Fendi, Prada when I hit Milan
+I neede...
+Expected Genre: Hip-Hop
+Predicted Genre: The lyrics you provided are from the song "Lemonade" by Internet Money featuring Don Toliver, Gunna, and NAV. This song falls under the genre of **Hip-Hop/Rap**. The references to luxury brands and lifestyle, along with the rhythmic flow, are characteristic of this genre.
+Correct: Yes
+
+Song 5:
+Lyrics: Workin' on a weekend like usual
+Way off in the deep end like usual (Like usual)
+they swear they pass...
+Expected Genre: Hip-Hop
+Predicted Genre: The lyrics you provided are from the song "Money in the Grave" by Drake featuring Rick Ross. This song can be classified primarily as **hip-hop/rap**. The genre is characterized by its rhythmic vocal style and often features themes related to wealth, success, and personal experiences, which are evident in the lyrics.
+Correct: Yes
+
+Song 6:
+Lyrics: This where my head is (Listen)
+I feel resentment from every direction
+Even some homies be wearing ex...
+Expected Genre: Hip-Hop
+Predicted Genre: The lyrics you've provided are from the song "The Heart Part 5" by Kendrick Lamar. This song can be classified primarily as **hip-hop/rap**. Kendrick Lamar is known for his introspective and socially conscious lyrics, which often explore themes of personal struggle, societal issues, and emotional depth, all of which are present in these lines.
+Correct: Yes
+
+Song 7:
+Lyrics: I just mind my business
+I got brothers that did the time, I ain't kiddin'
+All these rappers just tal...
+Expected Genre: Hip-Hop
+Predicted Genre: The lyrics you provided are from the song "Dior" by Pop Smoke. This song can be classified primarily as **Hip-Hop/Rap**. The genre is characterized by its rhythmic vocal style and often includes themes related to street life, personal experiences, and luxury, which are present in these lyrics.
+Correct: Yes
+
+Song 8:
+Lyrics: I been movin' calm, don't start no trouble with me
+Tryna keep it peaceful is a struggle for me
+Don't...
+Expected Genre: Hip-Hop
+Predicted Genre: The lyrics you've provided are from the song "Duppy Freestyle" by Drake. This song falls primarily under the genre of **Hip-Hop/Rap**. Drake is known for blending various styles, including R&B and pop elements, but this particular track is best classified as hip-hop.
+Correct: Yes
+
+Song 9:
+Lyrics: You can get the biggest Chanel bag in the store if you want it
+I gave 'em the drip, they sucked it u...
+Expected Genre: Hip-Hop
+Predicted Genre: The lyrics you provided are characteristic of the hip-hop genre. They feature themes commonly found in rap music, such as luxury, wealth, and personal success. If you have more songs or lyrics you'd like to classify, feel free to share!
+Correct: Yes
+
+Song 10:
+Lyrics: Strength and guidance
+All that I'm wishin' for my friends
+Nobody makes it from my ends
+I had to bust...
+Expected Genre: Hip-Hop
+Predicted Genre: The lyrics you've provided are from the song "One Dance" by Drake, featuring Wizkid and Kyla. This song can be classified primarily as:
+
+**Genre:**
+- Hip Hop/Rap
+- Dancehall
+- Afrobeats
+
+Drake's style often blends elements from various genres, and "One Dance" is known for its fusion of hip hop with dance and Caribbean influences.
+Correct: No
+
+Song 11:
+Lyrics: I ain't lost since I began, yeah
+Funny how you said it was the end, yeah
+Then I went did it again, y...
+Expected Genre: Hip-Hop
+Predicted Genre: The lyrics you provided are from the song "Industry Baby" by Lil Nas X featuring Jack Harlow. This song can be classified primarily as **Hip-Hop/Rap**. It incorporates elements of pop and has a strong beat, which is common in contemporary hip-hop tracks.
+Correct: Yes
+
+Song 12:
+Lyrics: I been overseas goin' crazy (yeah)
+I can tell you love it when we made up (ayy)
+Black and gray diamo...
+Expected Genre: Hip-Hop
+Predicted Genre: The lyrics you've provided are from the song "Loving Is Easy" by Rex Orange County. Based on the style and elements present in the lyrics, this song can be classified primarily as **indie pop**. It also incorporates elements of **R&B** and **soul**, given the smooth delivery and themes of love and relationships.
+Correct: No
+
+Song 13:
+Lyrics: Got a penthouse near Rodeo off of stress (Stress)
+All this money, when I grew up, I had nothing (Not...
+Expected Genre: Hip-Hop
+Predicted Genre: The lyrics you provided are from the song "Money" by the artist Lisa. This song can be classified primarily as **Hip-Hop/Rap**. The themes of wealth, success, and personal struggles are common in this genre. If you have more songs or lyrics you'd like to classify, feel free to share!
+Correct: Yes
+
+Song 14:
+Lyrics: Why you always in a mood?
+Messin' 'round, actin' brand new
+I ain't tryna tell you what to do
+But try...
+Expected Genre: Hip-Hop
+Predicted Genre: The lyrics you provided are from the song "Mood" by 24kGoldn featuring Iann Dior. This song can be classified primarily as **Hip-Hop/Rap** with elements of **Pop**. The blend of catchy melodies and rhythmic verses is characteristic of both genres.
+Correct: Yes
+
+Song 15:
+Lyrics: She saw my eyes, she know I'm gone (ah)
+I see some things that you might fear
+I'm doin' a show, I'll...
+Expected Genre: Hip-Hop
+Predicted Genre: The lyrics you've provided are from the song "Come Back to Me" by the artist **Travis Scott**. Based on the style and themes present in the lyrics, this song can be classified primarily as **Hip-Hop/Rap**. Additionally, it may also incorporate elements of **R&B** and **Trap**, which are common in Travis Scott's music.
+Correct: Yes
+
+Song 16:
+Lyrics: Cause you make my earth quake
+Oh, you make my earth quake
+Riding around, your love is shakin' me up ...
+Expected Genre: Hip-Hop
+Predicted Genre: The lyrics you provided are from the song "Earthquake" by Tyler, the Creator. This song can be classified primarily as **Hip-Hop/Rap**. It also incorporates elements of **R&B** and **Alternative** music, which are common in Tyler, the Creator's style.
+Correct: Yes
+
+Song 17:
+Lyrics: Look, I just flipped the switch (flipped, flipped)
+I don't know nobody else that's doin' this
+Bodies...
+Expected Genre: Hip-Hop
+Predicted Genre: The lyrics you provided are from the song "Sicko Mode" by Travis Scott. This song can be classified primarily as **hip-hop/rap**. It features elements typical of the genre, such as rhythmic vocal delivery, a focus on beats, and themes related to success and lifestyle.
+Correct: Yes
+
+Song 18:
+Lyrics: Ayy, Bottega shades with the grey tints
+Introduce me to her n-, yeah, it make sense
+Gotta put her on...
+Expected Genre: Hip-Hop
+Predicted Genre: The lyrics you provided are from the song "Wanna Be a Baller" by the artist **Drake**. Based on the content and style of the lyrics, this song can be classified primarily as **Hip-Hop/Rap**. The themes of luxury, street life, and personal experiences are common in this genre.
+Correct: Yes
+
+Song 19:
+Lyrics: I'm on everything
+Jacob charged me four-fifty for a tennis chain
+US Open, had it on us at the tennis...
+Expected Genre: Hip-Hop
+Predicted Genre: The lyrics you provided are from the song "The Last Last" by the artist **Drake**. Based on the content and style of the lyrics, this song can be classified primarily as **Hip-Hop/Rap**. The themes of luxury, sports, and camaraderie are common in this genre. If you have more songs or lyrics you'd like to classify, feel free to share!
+Correct: Yes
+
+Song 20:
+Lyrics: Gotta keep it on me, I don't wanna die young
+I rather be judged by twelve, than carried by six
+I'ma ...
+Expected Genre: Hip-Hop
+Predicted Genre: The lyrics you've provided are from the song "Legends" by Juice WRLD. This song falls primarily into the **hip-hop** and **rap** genres. Juice WRLD is known for blending elements of **emo rap** and **trap**, which are also characteristic of his style.
+Correct: Yes
+
+Song 21:
+Lyrics: "Sorry I'm never comin' home I'ma stay for good"
+Then hang the phone up, and proceed to lay the wood...
+Expected Genre: Hip-Hop
+Predicted Genre: The lyrics you've provided are from the song "The Real Slim Shady" by Eminem. Based on the style, themes, and delivery, this song can be classified primarily as **Hip-Hop/Rap**. Eminem's work often features elements of storytelling, personal reflection, and social commentary, which are characteristic of the genre.
+Correct: Yes
+
+Song 22:
+Lyrics: Yeah, Moncler, yuh, fur came off a bear, yuh (yeah)
+Triple homicide, put me in a chair, yuh (in jail...
+Expected Genre: Hip-Hop
+Predicted Genre: The lyrics you provided are from the song "No Bystanders" by Travis Scott, which falls under the genre of **Hip-Hop/Rap**. This genre is characterized by rhythmic vocal style (rapping) and often includes themes related to street life, wealth, and personal experiences. If you have more songs or lyrics you'd like to classify, feel free to share!
+Correct: Yes
+
+Song 23:
+Lyrics: I try not to wear nothing twice
+I came up off of shooting dice, yeah
+My lil' brother ain't living ri...
+Expected Genre: Hip-Hop
+Predicted Genre: The lyrics you provided are characteristic of the hip-hop genre. They reflect themes commonly found in rap music, such as personal struggles, family dynamics, street life, and a sense of resilience. If you have more lyrics or specific songs in mind, feel free to share!
+Correct: Yes
+
+Song 24:
+Lyrics: The dash, it's digi', the schedule busy
+My head in a hoodie, my shorty a goodie
+My cousins are crazy...
+Expected Genre: Hip-Hop
+Predicted Genre: The lyrics you provided are from the song "Duppy Freestyle" by Drake. This song falls under the genre of **hip-hop/rap**. Drake is known for his blend of rap and R&B, but this particular track is primarily categorized as hip-hop.
+Correct: Yes
+
+Song 25:
+Lyrics: Okay, alright, that's fine, okay (okay)
+I'm feelin' too sexy to accept requests (way too sexy)
+And I...
+Expected Genre: Hip-Hop
+Predicted Genre: The lyrics you provided are from the song "Way Too Sexy" by Drake featuring Future and Young Thug. This song can be classified primarily as **Hip-Hop/Rap**. It incorporates elements of **R&B** as well, given the melodic flow and production style.
+Correct: Yes
+
+Song 26:
+Lyrics: I can see the whole city from this balcony
+Back in 2019, I was outside freely
+But now they got it ou...
+Expected Genre: Hip-Hop
+Predicted Genre: The lyrics you've provided are from the song "SICKO MODE" by Travis Scott. This song can be classified primarily as **Hip-Hop/Rap**. It features elements of trap music, which is a subgenre of hip-hop characterized by its use of hi-hats, heavy bass, and layered production. If you have more songs or lyrics you'd like to classify, feel free to share!
+Correct: Yes
+
+Song 27:
+Lyrics: Man, we could be superstars
+We been ridin', wreckin' cars (ayy bro, is that Jambo?)
+What is at stake...
+Expected Genre: Hip-Hop
+Predicted Genre: The lyrics you provided are from the song "Superstars" by the artist 21 Savage and feature a blend of hip-hop and rap elements. Therefore, the genre of this song can be classified as **Hip-Hop/Rap**.
+Correct: Yes
+
+Song 28:
+Lyrics: You spend what you want and you get what you want
+I guess you got what you wanted
+You're hittin' the...
+Expected Genre: Hip-Hop
+Predicted Genre: The lyrics you provided are from the song "Too Many Nights" by **Swae Lee** featuring **Jhené Aiko**. This song can be classified primarily as **Hip-Hop/Rap** with elements of **R&B**. The blend of melodic vocals and rhythmic rap is characteristic of both genres.
+Correct: Yes
+
+Song 29:
+Lyrics: Gotta throw a party for my day ones
+They ain't in the studio, but they'll lay somethin'
+Rest in peac...
+Expected Genre: Hip-Hop
+Predicted Genre: The lyrics you provided are characteristic of hip-hop or rap music. The themes of camaraderie, celebration, and references to personal experiences and loss are common in this genre. The mention of a party and the casual, conversational tone also align with hip-hop culture.
+Correct: Yes
+
+Song 30:
+Lyrics: Diamonds do the silly dance, I raise up the wine glass
+Metal detectors beepin', and security bypass
+...
+Expected Genre: Hip-Hop
+Predicted Genre: The lyrics you provided appear to belong to a hip-hop or rap genre. The use of wordplay, references to pop culture, and a rhythmic flow are characteristic of this style. If you have more lyrics or specific songs in mind, feel free to share!
+Correct: Yes
+
+Song 31:
+Lyrics: I've been wantin' somethin' I can feel
+Promise I am never lettin' up
+Money in your palm don't make y...
+Expected Genre: Hip-Hop
+Predicted Genre: The lyrics you've provided are from the song "Something to Feel" by the artist **Tobe Nwigwe**. This song can be classified primarily as **Hip-Hop/Rap**. The themes and style are characteristic of the genre, focusing on authenticity, struggle, and personal empowerment.
+Correct: Yes
+
+Song 32:
+Lyrics: My resume is real enough for two millenniums
+A better way to make a wave, stop defendin' them
+I medi...
+Expected Genre: Hip-Hop
+Predicted Genre: The lyrics you've provided appear to be from a hip-hop or rap song. The themes of self-reflection, ambition, and personal growth are common in this genre. If you have more lyrics or specific songs in mind, I can help classify them further!
+Correct: Yes
+
+Song 33:
+Lyrics: And all the times you wasn't chosen, well, I'll make it up to you
+All of the feelings you're not sho...
+Expected Genre: Hip-Hop
+Predicted Genre: The lyrics you've provided appear to be from a song that expresses themes of love, commitment, and emotional connection. Based on these themes and the lyrical style, the song can be classified primarily as belonging to the **Pop** genre. It may also have elements of **R&B** or **Soul**, depending on the musical arrangement and vocal delivery. If you have a specific artist or song title in mind, I can provide a more precise classification!
+Correct: No
+
+Song 34:
+Lyrics: Two thirty baby, won't you meet me by The Bean?
+Too early, maybe later you can show me things
+You kn...
+Expected Genre: Hip-Hop
+Predicted Genre: The lyrics you provided are from the song "Chicago Freestyle" by Drake featuring Giveon. This song can be classified primarily under the genres of **Hip-Hop** and **R&B**.
+Correct: Yes
+
+Song 35:
+Lyrics: Bought the Patek, I was movin' too fast
+New G-Wagon, I was movin' too fast
+Got the condo, I was movi...
+Expected Genre: Hip-Hop
+Predicted Genre: The lyrics you provided are from the song "Too Fast" by the artist **Ski Mask the Slump God**. This song can be classified primarily as **Hip-Hop/Rap**. The themes of luxury, fast living, and introspection are common in this genre.
+Correct: Yes
+
+Song 36:
+Lyrics: I can hear your tears when they drop over the phone
+Get mad at yourself 'cause you can't leave me al...
+Expected Genre: Hip-Hop
+Predicted Genre: The lyrics you provided are from the song "Get Me" by the artist **Ski Mask the Slump God** featuring **Swae Lee**. This song can be classified primarily under the **Hip-Hop/Rap** genre, with elements of **R&B** due to its melodic and emotional delivery. The themes of vulnerability, relationships, and emotional struggles are common in both genres.
+Correct: Yes
+
+Song 37:
+Lyrics: We pop out at your party, I'm with the gang
+And it's gon' be a robbery, so tuck ya chain
+I'm a kille...
+Expected Genre: Hip-Hop
+Predicted Genre: The lyrics you provided are from the song "Welcome to the Party" by Pop Smoke. This song can be classified primarily as **Hip-Hop/Rap**. It features elements typical of the drill subgenre, which is characterized by its dark beats and aggressive lyrical content.
+Correct: Yes
+
+Song 38:
+Lyrics: I just picked up somethin' from Mercedes, it's a one of one
+Black exterior, the one that I want
+Red ...
+Expected Genre: Hip-Hop
+Predicted Genre: The lyrics you provided suggest that the song falls into the **hip-hop/rap** genre. The themes of luxury, wealth, and personal experiences, along with the style of delivery, are characteristic of this genre.
+Correct: Yes
+
+Song 39:
+Lyrics: All my life (all my life)
+They been tryin' to keep me down (they been tryin' to keep me down)
+All th...
+Expected Genre: Hip-Hop
+Predicted Genre: The lyrics you've provided are from the song "Can't Break Me" by the artist **Kali Uchis**. Based on the themes and style of the song, it can be classified primarily as **R&B** or **Hip-Hop**. The song features elements of empowerment and resilience, which are common in these genres. If you have more songs or specific genres in mind, feel free to share!
+Correct: Yes
+
+Song 40:
+Lyrics: I need someone to be patient with me
+Someone to get money with, not take it from me, look
+They don't...
+Expected Genre: Hip-Hop
+Predicted Genre: The lyrics you've provided are from the song "DÁKITI" by Bad Bunny and Jhay Cortez. This song can be classified primarily as **reggaeton**, a genre that blends Latin rhythms with hip-hop and dance music elements. It may also incorporate elements of **trap** and **Latin pop**, which are common in Bad Bunny's music.
+Correct: Yes
+
+Song 41:
+Lyrics: If you wanna run away with me, I know a galaxy
+And I can take you for a ride
+I had a premonition tha...
+Expected Genre: Pop
+Predicted Genre: The lyrics you've provided are from the song "Levitating" by Dua Lipa featuring DaBaby. This song can be classified primarily as **pop**. It also incorporates elements of **disco** and **dance-pop**, which are common in Dua Lipa's music style.
+Correct: Yes
+
+Song 42:
+Lyrics: Tastes like strawberries on a summer evenin'
+And it sounds just like a song
+I want more berries and ...
+Expected Genre: Pop
+Predicted Genre: The lyrics you provided are from the song "Watermelon Sugar" by Harry Styles. This song is primarily classified as pop, with elements of rock and indie pop. The upbeat and summery vibe, along with the catchy melody, aligns it with contemporary pop music.
+Correct: Yes
+
+Song 43:
+Lyrics: Well, good for you, I guess you moved on really easily
+You found a new girl, and it only took a coup...
+Expected Genre: Pop
+Predicted Genre: The lyrics you've provided are from the song "Good 4 U" by Olivia Rodrigo. This song is classified primarily as **pop rock** or **pop punk**, with elements of alternative rock. Olivia Rodrigo's music often blends various genres, but this particular track has a strong pop and rock influence.
+Correct: Yes
+
+Song 44:
+Lyrics: I saw you dancing in a crowded room, uh
+You look so happy when I'm not with you
+But then you saw me,...
+Expected Genre: Pop
+Predicted Genre: The lyrics you provided are from the song "Dancing on My Own" by Robyn, which is often classified as pop, specifically within the subgenre of electropop or dance-pop. The themes of heartbreak and emotional struggle are common in pop music. If you have more songs or specific genres in mind, feel free to share!
+Correct: Yes
+
+Song 45:
+Lyrics: They say, oh my God I see the way you shine
+Take your hand, my dear, and place them both in mine
+You...
+Expected Genre: Pop
+Predicted Genre: The lyrics you've provided are from the song "Dance Monkey" by Tones and I. This song is primarily classified as **pop**. It also incorporates elements of **electronic** and **indie pop**. If you have more songs you'd like to classify, feel free to share!
+Correct: Yes
+
+Song 46:
+Lyrics: Holdin' me back
+Gravity's holdin' me back
+I want you to hold out the palm of your hand
+Why don't we ...
+Expected Genre: Pop
+Predicted Genre: The lyrics you've provided are from the song "As It Was" by Harry Styles. This song is primarily classified as **pop**. It incorporates elements of **synth-pop** and has a catchy, upbeat sound typical of contemporary pop music. If you have more songs you'd like to classify, feel free to share!
+Correct: Yes
+
+Song 47:
+Lyrics: Did a full 180, crazy
+Thinking 'bout the way I was
+Did the heartbreak change me? Maybe
+But look at w...
+Expected Genre: Pop
+Predicted Genre: The lyrics you've provided are from the song "Flowers" by Miley Cyrus. This song can be classified primarily as **pop**. It also incorporates elements of **dance-pop** and **R&B**, reflecting themes of empowerment and personal growth. If you have more songs you'd like to classify, feel free to share!
+Correct: Yes
+
+Song 48:
+Lyrics: I took an arrow to the heart
+I never kissed a mouth that tastes like yours
+Strawberries and somethin...
+Expected Genre: Pop
+Predicted Genre: The lyrics you provided are from the song "Heartbreak Anniversary" by Giveon. Based on the style and themes present in the lyrics, this song can be classified primarily as **R&B**. It features elements of pop as well, particularly in its melodic structure and emotional expression. The blend of romantic themes and smooth instrumentation is characteristic of contemporary R&B music.
+Correct: Yes
+
+Song 49:
+Lyrics: I do the same thing I told you that I never would
+I told you I'd change, even when I knew I never co...
+Expected Genre: Pop
+Predicted Genre: The lyrics you've provided are from the song "Stay" by The Kid LAROI and Justin Bieber. This song can be classified primarily as **pop**. It also incorporates elements of **hip-hop** and **R&B**, which are common in contemporary pop music.
+Correct: Yes
+
+Song 50:
+Lyrics: I got my peaches out in Georgia (oh yeah, shit)
+I get my weed from California (that's that shit)
+I t...
+Expected Genre: Pop
+Predicted Genre: The lyrics you provided are from the song "Peaches" by Justin Bieber featuring Daniel Caesar and Giveon. This song can be classified primarily as **R&B** (Rhythm and Blues) with elements of **Pop**. The smooth melodies and romantic themes are characteristic of both genres.
+Correct: Yes
+
+Song 51:
+Lyrics: Golden, golden, golden
+As I open my eyes
+Hold it, focus, hoping
+Take me back to the light
+I know you...
+Expected Genre: Pop
+Predicted Genre: The lyrics you've provided are from the song "Golden" by Harry Styles. This song can be classified primarily as **pop**. It also incorporates elements of **rock** and **indie** music, which are often present in Styles' work. If you have more songs you'd like to classify, feel free to share!
+Correct: Yes
+
+Song 52:
+Lyrics:  put my armor on, show you how strong I am
+I put my armor on, I'll show you that I am
+I'm unstoppabl...
+Expected Genre: Pop
+Predicted Genre: The lyrics you provided are from the song "Unstoppable" by Sia. This song can be classified primarily as **pop**. It also incorporates elements of **electropop** and **dance-pop** due to its upbeat tempo and electronic production.
+Correct: Yes
+
+Song 53:
+Lyrics: When I'm away from you, I'm happier than ever
+Wish I could explain it better
+I wish it wasn't true
+G...
+Expected Genre: Pop
+Predicted Genre: The lyrics you provided are from the song "Happier Than Ever" by Billie Eilish. This song can be classified primarily as **pop**, with elements of **alternative** and **indie** music. Billie Eilish's style often incorporates a blend of various genres, but her work is predominantly recognized within the pop genre.
+Correct: Yes
+
+Song 54:
+Lyrics: I'd walk through fire for you
+Just let me adore you
+Like it's the only thing I'll ever do
+Like it's ...
+Expected Genre: Pop
+Predicted Genre: The lyrics you've provided are from the song "Adore You" by Harry Styles. This song can be classified primarily as **pop**. It also incorporates elements of **R&B** and **soul**, which are common in Styles' music. If you have more songs you'd like to classify, feel free to share!
+Correct: Yes
+
+Song 55:
+Lyrics: I'm going under and this time I fear there's no one to save me
+This all or nothing really got a way ...
+Expected Genre: Pop
+Predicted Genre: The lyrics you've provided are from the song "Someone You Loved" by Lewis Capaldi. This song is classified primarily as **pop** and **pop ballad**. It features emotional themes and a focus on personal experiences, which are common in these genres.
+Correct: Yes
+
+Song 56:
+Lyrics: There ain't no gold in this river
+That I've been washin' my hands in forever
+I know there is hope in...
+Expected Genre: Pop
+Predicted Genre: The lyrics you provided are from the song "Easy On Me" by Adele. This song is classified primarily as **pop** and **soul**. Adele's music often incorporates elements of **R&B** and **adult contemporary** as well, but the main genres for this particular song would be pop and soul.
+Correct: Yes
+
+Song 57:
+Lyrics: Yeah, your boyfriend'll never understand me (understand me)
+'Cause I'm 'bout to pull this girl like ...
+Expected Genre: Pop
+Predicted Genre: The lyrics you've provided are from the song "Lover Is a Day" by the band **Gus Dapperton**. This song can be classified primarily under the **indie pop** genre, with elements of **alternative** and **synth-pop**. Gus Dapperton's style often incorporates catchy melodies and introspective lyrics, characteristic of indie pop music.
+Correct: Yes
+
+Song 58:
+Lyrics: I got my head out the sunroof
+I'm blasting our favorite tunes
+I only got one thing on my mind
+You go...
+Expected Genre: Pop
+Predicted Genre: The lyrics you provided are from the song "Sunroof" by Nicky Youre and Dazy. This song can be classified primarily as **pop**. It has elements of **indie pop** and **dance-pop** as well, given its upbeat and catchy nature. If you have more songs you'd like to classify, feel free to share!
+Correct: Yes
+
+Song 59:
+Lyrics: I've always been the one to say the first goodbye
+Had to love and lose a hundred million times
+Had t...
+Expected Genre: Pop
+Predicted Genre: The lyrics you've provided are from the song "Falling" by Harry Styles. This song can be classified primarily as **pop**. It also incorporates elements of **soft rock** and **indie pop**, which are common in Harry Styles' music. If you have more songs you'd like to classify, feel free to share!
+Correct: Yes
+
+Song 60:
+Lyrics: Why you callin' at 11:30
+When you only wanna do me dirty?
+But I hit right back 'cause you got that, ...
+Expected Genre: Pop
+Predicted Genre: The lyrics you've provided are from the song "Hypnotized" by the artist **T-Pain** featuring **Khalid**. This song can be classified primarily as **R&B** (Rhythm and Blues) with elements of **Hip-Hop** and **Pop**. The smooth melodies and emotional themes are characteristic of the R&B genre, while the collaboration with a hip-hop artist adds to its crossover appeal.
+Correct: Yes
+
+Song 61:
+Lyrics: Go on dust your shoulders off, keep it moving
+Yes Lord, tryna get some new shit
+In there, swimwear, ...
+Expected Genre: Pop
+Predicted Genre: The lyrics you've provided are from the song "The Good Life" by Kanye West featuring T-Pain. This song can be classified under the following genres:
+
+1. **Hip Hop/Rap** - The primary genre, characterized by rhythmic vocal style and beats.
+2. **R&B** - Elements of rhythm and blues can also be found in the song, especially in the melodic hooks and vocal delivery.
+
+If you have more songs or lyrics you'd like to classify, feel free to share!
+Correct: No
+
+Song 62:
+Lyrics: I swear I meant to mean the best when it ended
+Even tried to bite my tongue when you start
+Now you'r...
+Expected Genre: Pop
+Predicted Genre: The lyrics you provided are from the song "Bad Idea Right?" by Olivia Rodrigo. This song can be classified primarily as **pop**. It also incorporates elements of **alternative rock** and **indie pop**, which are common in Olivia Rodrigo's music style.
+Correct: Yes
+
+Song 63:
+Lyrics: Youngblood thinks there's always tomorrow
+I miss your touch on nights when I'm hollow
+I know you cro...
+Expected Genre: Pop
+Predicted Genre: The lyrics you provided are from the song "Ghost" by Justin Bieber. This song can be classified primarily as **pop**. It also incorporates elements of **R&B** and **electronic** music, which are common in many of Bieber's works. If you have more songs you'd like to classify, feel free to share!
+Correct: Yes
+
+Song 64:
+Lyrics: Sometimes, all I think about is you
+Late nights in the middle of June
+Heat waves been fakin' me out
+...
+Expected Genre: Pop
+Predicted Genre: The lyrics you provided are from the song "Heat Waves" by Glass Animals. This song is generally classified under the following genres:
+
+1. **Indie Pop**
+2. **Alternative Rock**
+3. **Electronic**
+
+If you have more songs you'd like to classify, feel free to share!
+Correct: Yes
+
+Song 65:
+Lyrics: Demons on my shoulder
+Monsters in my head
+Shadow in the water
+Will you be my friend?
+The world revol...
+Expected Genre: Pop
+Predicted Genre: The lyrics you've provided appear to belong to a song that has elements of pop, alternative, or indie music. The themes of inner struggles, self-identity, and a call for authenticity are common in these genres. If you have a specific song in mind, I can help identify its genre more accurately!
+Correct: Yes
+
+Song 66:
+Lyrics: I saw you dancin' out the ocean
+Runnin' fast along the sand
+A spirit born of earth and water
+Fire fl...
+Expected Genre: Pop
+Predicted Genre: The lyrics you provided are from "Tiny Dancer" by Elton John. This song is generally classified as **rock** and **pop**. It features elements of **soft rock** and has a classic, timeless quality that has made it a staple in popular music. If you have more songs you'd like to classify, feel free to share!
+Correct: Yes
+
+Song 67:
+Lyrics: You (you), you are (you are) my universe
+And I (I) just want (just want) to put you first
+And you (y...
+Expected Genre: Pop
+Predicted Genre: The lyrics you provided are from the song "My Universe" by Coldplay and BTS. This song can be classified primarily as **pop**, with elements of **electronic** and **rock**. The collaboration between Coldplay and BTS also brings in influences from **K-pop**, given BTS's background. Overall, it fits well within the contemporary pop genre.
+Correct: Yes
+
+Song 68:
+Lyrics: Shoes on, get up in the morn'
+Cup of milk, let's rock and roll
+King Kong, kick the drum
+Rolling on l...
+Expected Genre: Pop
+Predicted Genre: The lyrics you've provided are from the song "Giddy Up" by the artist **K/DA**. This song can be classified primarily as **pop** with elements of **dance** and **electronic** music. The upbeat and catchy nature of the lyrics, along with the references to contemporary culture, aligns well with the pop genre.
+Correct: Yes
+
+Song 69:
+Lyrics: He said, "Let's get out of this town
+Drive out of the city, away from the crowds"
+I thought Heaven c...
+Expected Genre: Pop
+Predicted Genre: The lyrics you've provided are from the song "Out of the Woods" by Taylor Swift. This song is classified under the pop genre, with elements of indie and alternative pop. Taylor Swift's music often blends various genres, but her work from the album "1989," which includes this song, is primarily pop.
+Correct: Yes
+
+Song 70:
+Lyrics: Every time you come around, you know I can't say no
+Every time the sun goes down, I let you take con...
+Expected Genre: Pop
+Predicted Genre: The lyrics you've provided are from "Bad Habits" by Ed Sheeran. This song can be classified primarily as **pop**. It also incorporates elements of **dance-pop** and **electropop**, given its upbeat tempo and production style.
+Correct: Yes
+
+Song 71:
+Lyrics: It's you and me
+It's you and me
+Won't be unhappy
+And if I only could
+I'd make a deal with God
+And I'...
+Expected Genre: Pop
+Predicted Genre: The lyrics you've provided are from the song "Running Up That Hill (A Deal with God)" by Kate Bush. This song is primarily classified as:
+
+**Genre:** Art Pop / Alternative Rock
+
+Kate Bush's music often blends elements of rock, pop, and experimental sounds, making her work unique within the art pop genre. If you have more songs you'd like to classify, feel free to share!
+Correct: Yes
+
+Song 72:
+Lyrics: When it get numb, go crazy
+Wanna wild out 'cause lately, life's so short, but amazin'
+Late night par...
+Expected Genre: Pop
+Predicted Genre: The lyrics you've provided suggest a song that falls within the genres of **Hip-Hop**, **Rap**, or **Pop**. The themes of partying, escapism, and emotional expression are common in these genres. If you have more specific details about the song or artist, I could provide a more precise classification!
+Correct: Yes
+
+Song 73:
+Lyrics: Memories follow me left and right
+I can feel you over here, I can feel you over here
+You take up eve...
+Expected Genre: Pop
+Predicted Genre: The lyrics you've provided are from the song "Memories" by the artist **Marshmello** featuring **Bastille**. This song can be classified primarily as **electronic pop** or **pop**. It incorporates elements of **electronic music** and has a melodic, emotional quality typical of pop songs.
+Correct: Yes
+
+Song 74:
+Lyrics: The universe must have divined this
+What am I gonna do? Not grab your wrist?
+I could be a better boy...
+Expected Genre: Pop
+Predicted Genre: The lyrics you provided are from the song "Better Boyfriend" by **The Vamps**. This song can be classified primarily as **pop**. It also has elements of **pop rock**, which is common in The Vamps' music style.
+Correct: Yes
+
+Song 75:
+Lyrics: You said you hated the ocean, but you're surfin' now
+I said I'd love you for life, but I just sold o...
+Expected Genre: Pop
+Predicted Genre: The lyrics you provided are from the song "The Good Part" by *Alec Benjamin*. This song can be classified primarily as **pop**. It features elements of **indie pop** and **singer-songwriter** styles, characterized by its storytelling and emotional themes. If you have more songs you'd like to classify, feel free to share!
+Correct: Yes
+
+Song 76:
+Lyrics: Now, I just fell in love
+And I just quit my job
+I'm gonna find new drive
+Damn, they work me so damn ...
+Expected Genre: Pop
+Predicted Genre: The lyrics you've provided are from the song "About Damn Time" by Lizzo. This song can be classified primarily as **Pop**. It also incorporates elements of **R&B** and **Funk**, which are common in Lizzo's music style. If you have more songs you'd like to classify, feel free to share!
+Correct: Yes
+
+Song 77:
+Lyrics: She'd take the world off my shoulders if it was ever hard to move
+She'd turn the rain to a rainbow w...
+Expected Genre: Pop
+Predicted Genre: The lyrics you provided are from the song "Falling" by Harry Styles. This song can be classified primarily as **pop**. It also incorporates elements of **indie pop** and **soft rock**, which are common in Styles' music. If you have more songs you'd like to classify, feel free to share!
+Correct: Yes
+
+Song 78:
+Lyrics: Like a moth to a flame
+I'll pull you in, I'll pull you back to what you need initially
+It's just one...
+Expected Genre: Pop
+Predicted Genre: The lyrics you've provided appear to belong to the pop genre, specifically within the subgenres of pop rock or contemporary pop. The themes of love, relationships, and emotional conflict are common in pop music. If you have more specific songs or artists in mind, I can help classify those as well!
+Correct: Yes
+
+Song 79:
+Lyrics: Take a seat right over there, sat on the stairs
+Stay or leave, the cabinets are bare and I'm unaware...
+Expected Genre: Pop
+Predicted Genre: The lyrics you've provided are from the song "I Know" by the band **The Maine**. This song can be classified primarily as **pop rock** or **alternative rock**. The Maine is known for their blend of pop melodies with rock instrumentation, which is characteristic of their style.
+Correct: Yes
+
+Song 80:
+Lyrics: If you wanna run away with me, I know a galaxy
+And I can take you for a ride
+I had a premonition tha...
+Expected Genre: Pop
+Predicted Genre: The lyrics you've provided are from the song "Levitating" by Dua Lipa featuring DaBaby. This song can be classified primarily as **pop**. It also incorporates elements of **disco** and **dance-pop**, which are common in Dua Lipa's music style.
+Correct: Yes
+
+Song 81:
+Lyrics: Used to spend my nights out in a barroom
+Liquor was the only love I'd known
+But you rescued me from ...
+Expected Genre: Country
+Predicted Genre: The lyrics you provided are from the song "Tennessee Whiskey," which is primarily classified as **country**. The song has also been associated with elements of **blues** and **soul**, especially in its more recent renditions. Overall, it fits best within the country genre.
+Correct: Yes
+
+Song 82:
+Lyrics: Longneck ice cold beer never broke my heart
+Like diamond rings and football teams have torn this boy...
+Expected Genre: Country
+Predicted Genre: The lyrics you provided are from the song "Beer Never Broke My Heart" by Luke Combs. This song falls under the **country** genre. It features themes commonly found in country music, such as heartbreak, nostalgia, and references to rural life and drinking.
+Correct: Yes
+
+Song 83:
+Lyrics: A few days 'fore he turned eighty
+He was sitting out back in a rocker
+He said, "What you been up to ...
+Expected Genre: Country
+Predicted Genre: The lyrics you provided are from the song "Two Cents" by the artist **Kenny Chesney**. This song falls under the **country** genre. If you have more songs or lyrics you'd like classified, feel free to share!
+Correct: Yes
+
+Song 84:
+Lyrics: My girl is bangin', she's so low maintenance
+Don't need no champagne-poppin' entertainment
+Take her ...
+Expected Genre: Country
+Predicted Genre: The lyrics you provided are from the song "Best I Ever Had" by the artist Drake. This song can be classified primarily as **Hip-Hop/Rap**. It also incorporates elements of **R&B** due to its melodic flow and romantic themes.
+Correct: No
+
+Song 85:
+Lyrics: We've been burnin' both ends
+Keepin' the lights on
+So I've been thinkin' we need
+A little time alone...
+Expected Genre: Country
+Predicted Genre: The lyrics you've provided are from the song "Your Man" by Josh Turner. This song can be classified primarily as **Country**. It features themes commonly found in country music, such as romance and intimacy, along with a laid-back, heartfelt vibe.
+Correct: Yes
+
+Song 86:
+Lyrics: Poor me, pour me another drink
+'Cause I don't wanna feel a thing
+No more, hell nah
+I just wanna sip ...
+Expected Genre: Country
+Predicted Genre: The lyrics you've provided are from the song "Pour Me" by **Morgan Wallen**. This song can be classified under the **country** genre, specifically within the subgenre of **country pop** or **country rock**. The themes of heartbreak and drinking are common in country music, which further supports this classification.
+Correct: Yes
+
+Song 87:
+Lyrics: A cold beer's got twelve ounces
+A good truck's got maybe three hundred thousand
+You only get so much...
+Expected Genre: Country
+Predicted Genre: The lyrics you provided are from the song "Time" by **Chris Stapleton**. This song falls under the **country** genre, specifically contemporary country, which often incorporates elements of rock and blues. If you have more songs or lyrics you'd like to classify, feel free to share!
+Correct: Yes
+
+Song 88:
+Lyrics: She asked me where I was from
+I said "Somewhere you never been to"
+Little town outside of Knoxville
+...
+Expected Genre: Country
+Predicted Genre: The lyrics you provided are from the song "Somewhere on a Beach" by Dierks Bentley. This song falls under the genre of **country music**. The themes of small-town life, romance, and nature are common in country songs, which often reflect personal stories and experiences.
+Correct: Yes
+
+Song 89:
+Lyrics: Water towers are made for hearts and names
+Friday nights are made for football games
+Fallin' leaves ...
+Expected Genre: Country
+Predicted Genre: The lyrics you provided are from the song "Made for You" by Jake Owen. This song falls under the **country** genre. The themes of love, nostalgia, and everyday life experiences are common in country music. If you have more songs you'd like to classify, feel free to share!
+Correct: Yes
+
+Song 90:
+Lyrics: Take my hand, let me make you mine
+I'm through waiting, taking my time
+Never felt like this before
+T...
+Expected Genre: Country
+Predicted Genre: The lyrics you've provided suggest a romantic and emotional theme, which is often found in genres like:
+
+1. **Pop** - The catchy and relatable nature of the lyrics aligns well with pop music.
+2. **R&B** - The smooth and intimate feel of the lyrics could also fit within the R&B genre, which often explores themes of love and relationships.
+3. **Country** - Depending on the musical arrangement, these lyrics could also be interpreted in a country context, as they often tell a story about love and connection.
+
+Overall, the song could primarily be classified as **Pop** or **R&B**, with potential crossover into **Country**.
+Correct: Yes
+
+Song 91:
+Lyrics: You say what if I hurt you
+What if I leave you
+What if I find somebody else
+And I don't need you
+Wha...
+Expected Genre: Country
+Predicted Genre: The lyrics you've provided are from the song "What If" by **Jaden Smith**. This song can be classified primarily as **Hip-Hop/Rap**, with elements of **R&B**. The genre classification may vary slightly depending on the specific style and production, but it generally falls within these categories.
+Correct: No
+
+Song 92:
+Lyrics: I've cheated and I've lied
+I've broke down and I've cried
+I've got nothing to hide no more
+I've love...
+Expected Genre: Country
+Predicted Genre: The lyrics you've provided are from the song "Devil" by **Megan Fox**. This song can be classified primarily as **country** or **country rock**, given its themes and style. The emotional storytelling and personal reflection are characteristic of the country genre.
+Correct: Yes
+
+Song 93:
+Lyrics: ve seen pick up lines and dive bar strangers slow dance
+I've seen happy hour two-for-ones turn to on...
+Expected Genre: Country
+Predicted Genre: The lyrics you've provided suggest themes commonly found in country music, particularly in the subgenres of contemporary country and country pop. The imagery of dive bars, relationships, and the ups and downs of love aligns well with the storytelling style often found in country songs. 
+
+If you have more lyrics or specific songs in mind, I can help classify them further!
+Correct: Yes
+
+Song 94:
+Lyrics: I can still shut down a party
+I can hang with anybody
+I can drink whiskey and red wine
+Champagne all...
+Expected Genre: Country
+Predicted Genre: The lyrics you provided are from the song "Tequila" by Dan + Shay. This song falls under the genre of **Country**. It blends elements of contemporary country with pop influences, which is common in the music of Dan + Shay.
+Correct: Yes
+
+Song 95:
+Lyrics: Do you love the rain, does it make you dance
+When you're drunk with your friends at a party?
+What's ...
+Expected Genre: Country
+Predicted Genre: The lyrics you've provided are from the song "10,000 Hours" by Dan + Shay featuring Justin Bieber. This song can be classified primarily as **Country Pop**. It blends elements of country music with pop sensibilities, which is characteristic of Dan + Shay's style. If you have more songs you'd like to classify, feel free to share!
+Correct: Yes
+
+Song 96:
+Lyrics: Someone asked me once in an interview
+"What was growing up like, where'd you go to school?
+And what ...
+Expected Genre: Country
+Predicted Genre: The lyrics you provided are from the song "The Good Ones" by Gabby Barrett. This song can be classified primarily as **country**. It features themes commonly found in country music, such as nostalgia, personal experiences, and storytelling.
+Correct: Yes
+
+Song 97:
+Lyrics: I never stay in one place too long
+A dirt road's singing me a siren song
+I gotta find a field
+I need...
+Expected Genre: Country
+Predicted Genre: The lyrics you provided are from the song "Heart Like a Truck" by Lainey Wilson. This song falls under the **country** genre. Country music often features themes of rural life, love, and personal experiences, which are evident in these lyrics.
+Correct: Yes
+
+Song 98:
+Lyrics: What's goin' on, mama?
+Something just dawned on me
+I ain't been home in some months
+Been chasin' son...
+Expected Genre: Country
+Predicted Genre: The lyrics you've provided are from the song "Mama" by **Chris Stapleton**. This song can be classified primarily as **country**. It also incorporates elements of **southern rock** and **blues**, which are often found in Stapleton's music.
+Correct: Yes
+
+Song 99:
+Lyrics: You can tell your old man
+You'll do some largemouth fishing another time
+You just got too much on yo...
+Expected Genre: Country
+Predicted Genre: The lyrics you provided are from the song "Till You Can't" by **Mitchell Tenpenny**. This song falls under the **country** genre. The themes of the song revolve around the importance of seizing the moment and not procrastinating on meaningful relationships and experiences, which is a common motif in country music.
+Correct: Yes
+
+Song 100:
+Lyrics: I was lost
+You found a way to bring me back
+Needed forgiveness
+You always gave me that
+Girl, I'm a w...
+Expected Genre: Country
+Predicted Genre: The lyrics you provided are from the song "Thank God" by Kane Brown featuring Katelyn Brown. This song can be classified primarily as **country**. It also has elements of **pop** due to its melodic structure and mainstream appeal.
+Correct: Yes
+
+Song 101:
+Lyrics: I don't always wake up in the mornin'
+Pour myself a strong one
+Ah, but when I get lonely I do
+Your m...
+Expected Genre: Country
+Predicted Genre: The lyrics you've provided are from the song "Three Sheets to the Wind" by **Chris Stapleton**. This song can be classified primarily as **country**. It features themes commonly found in country music, such as heartache, drinking, and personal reflection.
+Correct: Yes
+
+Song 102:
+Lyrics: Yeah I'm chillin' on a dirt road
+Laid back swervin' like I'm George Jones
+Smoke rollin' out the wind...
+Expected Genre: Country
+Predicted Genre: The lyrics you provided are from the song "Dirt Road Anthem" by Jason Aldean. This song is classified as **country** music. It features themes commonly found in country songs, such as nostalgia, rural life, and a laid-back lifestyle.
+Correct: Yes
+
+Song 103:
+Lyrics: Half of my high school fell in love
+With the girl next door
+In their daddy's Ford
+Half of my main st...
+Expected Genre: Country
+Predicted Genre: The lyrics you provided are from the song "Half of My Hometown" by Kelsea Ballerini. This song falls under the genre of **Country**. It features themes commonly found in country music, such as nostalgia, small-town life, and personal experiences.
+Correct: Yes
+
+Song 104:
+Lyrics: When the sun goes down on my side of town
+That lonesome feeling comes to my door
+And the whole world...
+Expected Genre: Country
+Predicted Genre: The lyrics you've provided are from the song "Blue" by **LeAnn Rimes**. This song can be classified primarily as **country**. It features themes commonly found in country music, such as heartache and loneliness. If you have more songs you'd like to classify, feel free to share!
+Correct: Yes
+
+Song 105:
+Lyrics: A heart on the run
+Keeps a hand on a gun
+Can't trust anyone
+I was so sure
+What I needed was more
+Tri...
+Expected Genre: Country
+Predicted Genre: The lyrics you provided are from the song "The Night We Met" by Lord Huron. This song is generally classified under the genres of indie folk and alternative rock. If you have more songs you'd like to classify, feel free to share!
+Correct: No
+
+Song 106:
+Lyrics: It'll be fine by dusk light I'm tellin' you, baby
+These things eat at your bones and drive your youn...
+Expected Genre: Country
+Predicted Genre: The lyrics you've provided are from the song "I Know It Won't Work" by **The 1975**. This song can be classified primarily as **indie pop** or **alternative rock**. The 1975 often blends elements of pop, rock, and electronic music, which is characteristic of their style.
+Correct: No
+
+Song 107:
+Lyrics: "Heads Carolina, tails California"
+Maybe she'd fall for a boy from South Georgia
+She's got the bar i...
+Expected Genre: Country
+Predicted Genre: The lyrics you provided are from the song "Heads Carolina, Tails California" by Jo Dee Messina. This song falls under the **country** genre.
+Correct: Yes
+
+Song 108:
+Lyrics: My big brother rode an Indian Scout
+It was black like his jacket
+American Spirit hangin' outta his m...
+Expected Genre: Country
+Predicted Genre: The lyrics you provided are from the song "Indian Scout" by the band **The Band Perry**. This song can be classified primarily as **country**. It incorporates elements of storytelling and imagery often found in country music, reflecting themes of family, adventure, and nostalgia.
+Correct: Yes
+
+Song 109:
+Lyrics: If I could buy a house on Memory Lane
+I'd put my money down and I'd sign my name
+On that little corn...
+Expected Genre: Country
+Predicted Genre: The lyrics you provided are from the song "Memory Lane" by **Kacey Musgraves**. This song can be classified primarily as **country**. Kacey Musgraves is known for her blend of traditional country with contemporary elements, often incorporating storytelling and emotional themes in her music.
+Correct: Yes
+
+Song 110:
+Lyrics: Yeah, I've been throwin' down the whiskey
+I oughta get my money back
+And someone said it drowns a me...
+Expected Genre: Country
+Predicted Genre: The lyrics you've provided are from the song "Something in the Whiskey" by **Morgan Wallen**. This song falls under the **country** genre, specifically contemporary country. It features themes commonly found in country music, such as drinking, heartache, and seeking solace.
+Correct: Yes
+
+Song 111:
+Lyrics: m a dirt road in the headlights
+I'm a mama's boy, I'm a fist fight
+Kinda county line, kinda cold bee...
+Expected Genre: Country
+Predicted Genre: The lyrics you provided are from the song "Small Town Boy" by Dustin Lynch. This song falls under the **country** genre. The themes and imagery in the lyrics, such as references to rural life, small-town culture, and traditional values, are characteristic of country music.
+Correct: Yes
+
+Song 112:
+Lyrics: And I know that I can't ever tell you enough
+That all I need in this life is your crazy love
+If I ne...
+Expected Genre: Country
+Predicted Genre: The lyrics you provided are from the song "Crazy Love" by Luke Combs. This song falls under the genre of **country** music. If you have more songs you'd like to classify, feel free to share!
+Correct: Yes
+
+Song 113:
+Lyrics: I hope you both feel the sparks by the end of the drive
+I hope you know she's the one by the end of ...
+Expected Genre: Country
+Predicted Genre: The lyrics you've provided are from the song "I Hope" by Gabby Barrett. This song falls primarily into the **country** genre, with elements of **pop** as well. Gabby Barrett is known for her blend of country music with contemporary pop influences. If you have more songs or lyrics you'd like to classify, feel free to share!
+Correct: Yes
+
+Song 114:
+Lyrics: Somebody save me, me from myself
+I've spent so long living in Hell
+They say my lifestyle is bad for ...
+Expected Genre: Country
+Predicted Genre: The lyrics you've provided are from the song "Lost Cause" by **Billie Eilish**. This song can be classified primarily under the **Pop** genre, with elements of **Alternative** and **Indie Pop**. The themes of introspection, struggle, and emotional turmoil are common in these genres. If you have more songs or need further classification, feel free to share!
+Correct: No
+
+Song 115:
+Lyrics: I was no daddy's dream
+Was not your mama's prayer
+But I was your first and your
+Last ticket outta th...
+Expected Genre: Country
+Predicted Genre: The lyrics you provided are from the song "Outta There" by the artist **Kacey Musgraves**. Based on the themes and style of the lyrics, this song can be classified primarily as **country**. It also incorporates elements of **rock** and ** Americana**, reflecting a blend of storytelling and a sense of adventure often found in those genres.
+Correct: Yes
+
+Song 116:
+Lyrics: Katie's sittin' on her old front porch
+Watchin' the chickens peck the ground
+There ain't a whole lot...
+Expected Genre: Country
+Predicted Genre: The lyrics you provided are from the song "Katie" by the band **The Duhks**. Based on the content and style of the lyrics, this song can be classified primarily as **country**. The imagery and themes of rural life, small-town settings, and everyday experiences are characteristic of the country genre.
+Correct: Yes
+
+Song 117:
+Lyrics: We were just a couple years short of the age
+By my name on a fake ID
+And still 'bout a hundred away ...
+Expected Genre: Country
+Predicted Genre: The lyrics you provided are from the song "Line Steppers" by **Kenny Chesney**. This song falls under the **country** genre. If you have more songs or lyrics you'd like classified, feel free to share!
+Correct: Yes
+
+Song 118:
+Lyrics: I told my mama
+I told my friends
+When it comes to her
+When it comes to him
+Never again
+Last time was...
+Expected Genre: Country
+Predicted Genre: The lyrics you provided suggest themes of relationships, drama, and emotional intensity, which are commonly found in pop, rock, or country music. Based on the content and style, this song could be classified primarily as **pop** or **pop-rock**. If it has a more acoustic or storytelling style, it could also fit into the **country** genre. However, without additional context about the music itself, pop or pop-rock is the most fitting classification.
+Correct: Yes
+
+Song 119:
+Lyrics: Bein' the girl in a country song
+How in the world did it go so wrong?
+Like all we're good for is loo...
+Expected Genre: Country
+Predicted Genre: The lyrics you provided are from the song "Girl in a Country Song" by Maddie & Tae. This song falls under the **country** genre. It features themes commonly found in country music, such as relationships, gender roles, and a critique of stereotypes.
+Correct: Yes
+
+Song 120:
+Lyrics: Used to spend my nights out in a barroom
+Liquor was the only love I'd known
+But you rescued me from ...
+Expected Genre: Country
+Predicted Genre: The lyrics you provided are from the song "Tennessee Whiskey," which is primarily classified as **country**. The song also incorporates elements of **blues** and **soul**, particularly in its smooth delivery and emotional depth. Overall, it fits best within the country genre.
+Correct: Yes
+
+Song 121:
+Lyrics: "Oh, don't you dare look back
+Just keep your eyes on me"
+I said, "You're holding back"
+She said, "Sh...
+Expected Genre: Rock
+Predicted Genre: The lyrics you provided are from the song "Shut Up and Dance" by Walk the Moon. This song is primarily classified as **pop rock** and has elements of **dance-pop**. The upbeat tempo and catchy melody contribute to its classification in these genres.
+Correct: Yes
+
+Song 122:
+Lyrics: Breakin' my back just to know your name
+Seventeen tracks and I've had it with this game
+A breakin' m...
+Expected Genre: Rock
+Predicted Genre: The lyrics you've provided are from the song "Criminal" by the band **The Bravery**. This song is typically classified under the **rock** genre, specifically within the subgenres of **alternative rock** and **post-punk revival**. If you have more songs or lyrics you'd like classified, feel free to share!
+Correct: Yes
+
+Song 123:
+Lyrics: So if you're lonely
+You know I'm here waiting for you
+I'm just a cross-hair
+I'm just a shot away fro...
+Expected Genre: Rock
+Predicted Genre: The lyrics you've provided are from the song "The Night We Met" by Lord Huron. This song is typically classified under the genres of indie folk and alternative rock. If you have more songs you'd like to classify, feel free to share!
+Correct: Yes
+
+Song 124:
+Lyrics: Comin' out of my cage and I've been doin' just fine
+Gotta, gotta be down because I want it all
+It st...
+Expected Genre: Rock
+Predicted Genre: The lyrics you provided are from the song "Mr. Brightside" by The Killers. This song is typically classified as:
+
+**Genre:** Alternative Rock / Indie Rock
+
+If you have more songs you'd like to classify, feel free to share!
+Correct: Yes
+
+Song 125:
+Lyrics: I'm gonna fight 'em off
+A seven nation army couldn't hold me back
+They're gonna rip it off
+Takin' th...
+Expected Genre: Rock
+Predicted Genre: The lyrics you've provided are from the song "Seven Nation Army" by The White Stripes. This song is primarily classified as **rock**, specifically within the subgenres of **alternative rock** and **garage rock**. The White Stripes are known for their raw sound and minimalist approach, which are characteristic of these genres.
+Correct: Yes
+
+Song 126:
+Lyrics: I'm waking up to ash and dust
+I wipe my brow and I sweat my rust
+I'm breathing in the chemicals
+I'm ...
+Expected Genre: Rock
+Predicted Genre: The lyrics you've provided are from "Radioactive" by Imagine Dragons. This song is primarily classified as **alternative rock** and **electronic rock**. It incorporates elements of pop rock and has a strong anthemic quality, which is characteristic of many songs in the alternative rock genre.
+Correct: Yes
+
+Song 127:
+Lyrics: So this is what you meant
+When you said that you were spent
+And now it's time to build from the bott...
+Expected Genre: Rock
+Predicted Genre: The lyrics you've provided are from the song "The Great Escape" by Boys Like Girls. This song is typically classified as **pop punk** or **pop rock**. If you have more songs you'd like to classify, feel free to share!
+Correct: Yes
+
+Song 128:
+Lyrics: Time shakes, found you at the water
+At first you were my father
+Now I love you like a brother
+Earthq...
+Expected Genre: Rock
+Predicted Genre: The lyrics you've provided are from the song "Brother" by the band **MisterWives**. This song can be classified primarily as **indie pop** or **alternative pop**. The sound typically features upbeat melodies and emotional themes, which are characteristic of these genres. If you have more songs you'd like to classify, feel free to share!
+Correct: No
+
+Song 129:
+Lyrics: I heard them calling in the distance
+So I packed my things and ran
+Far away from all the trouble
+I h...
+Expected Genre: Rock
+Predicted Genre: The lyrics you provided have a reflective and somewhat melancholic tone, suggesting themes of escape and solitude. Based on these characteristics, the song could be classified into the following genres:
+
+1. **Folk** - The storytelling aspect and acoustic feel often found in folk music align with the themes presented in the lyrics.
+2. **Indie Rock** - Many indie rock songs explore personal narratives and emotional journeys, which fits the mood of the lyrics.
+3. **Alternative** - The introspective nature and departure from mainstream themes could also place it in the alternative genre.
+
+If you have a specific song in mind, please let me know, and I can provide a more precise classification!
+Correct: Yes
+
+Song 130:
+Lyrics: I don't like walking around this old and empty house
+So hold my hand, I'll walk with you my dear
+The...
+Expected Genre: Rock
+Predicted Genre: The lyrics you provided are from the song "Ship to Wreck" by Florence + The Machine. This song can be classified primarily as **indie pop** or **alternative rock**. Florence + The Machine is known for their blend of various genres, including baroque pop and soul influences, but their overall sound fits well within the indie and alternative categories.
+Correct: Yes
+
+Song 131:
+Lyrics: I was scared of dentists and the dark
+I was scared of pretty girls and starting conversations
+Oh, al...
+Expected Genre: Rock
+Predicted Genre: The lyrics you provided are from the song "Riptide" by Vance Joy. This song is generally classified as belonging to the following genres:
+
+1. **Indie Pop**
+2. **Folk Pop**
+3. **Alternative Rock**
+
+If you have more songs you'd like to classify, feel free to share!
+Correct: Yes
+
+Song 132:
+Lyrics: I was left to my own devices
+Many days fell away with nothing to show
+And the walls kept tumbling do...
+Expected Genre: Rock
+Predicted Genre: The lyrics you provided are from the song "Pompeii" by Bastille. This song is generally classified as belonging to the following genres:
+
+1. **Indie Pop**
+2. **Alternative Rock**
+
+If you have more songs you'd like to classify, feel free to share!
+Correct: Yes
+
+Song 133:
+Lyrics: I don't think you're right for him (Hey!)
+Look at what it might have been if you (Ho!)
+Took a bus to...
+Expected Genre: Rock
+Predicted Genre: The lyrics you've provided are from "Sweetheart" by the band **The Lumineers**. The genre of this song can be classified as **indie folk** or **folk rock**. The Lumineers are known for their acoustic sound, heartfelt lyrics, and a blend of folk and rock elements.
+Correct: Yes
+
+Song 134:
+Lyrics: I, I, when I was younger
+I, I, should have known better
+And I can't feel no remorse
+And you don't fe...
+Expected Genre: Rock
+Predicted Genre: The lyrics you provided are from the song "Ophelia" by The Lumineers. The genre of this song can be classified as **indie folk** or **folk rock**. The Lumineers are known for their acoustic sound, heartfelt lyrics, and a blend of folk and rock elements.
+Correct: Yes
+
+Song 135:
+Lyrics: I don't mind
+Letting you down easy, but just give it time
+If it don't hurt now then just wait, just ...
+Expected Genre: Rock
+Predicted Genre: The lyrics you've provided are from the song "The Great Escape" by Boys Like Girls. This song is typically classified as pop punk or alternative rock. If you have more songs or lyrics you'd like to classify, feel free to share!
+Correct: Yes
+
+Song 136:
+Lyrics: Can't count the years on one hand that we've been together
+I need the other one to hold you
+Make you...
+Expected Genre: Rock
+Predicted Genre: The lyrics you provided are from the song "Still Into You" by Paramore. This song is classified as pop punk and alternative rock. Paramore is known for their energetic sound that blends elements of rock with catchy pop melodies.
+Correct: Yes
+
+Song 137:
+Lyrics: All that I want
+Is to wake up fine
+Tell me that I'm alright
+That I ain't gonna die
+All that I want
+I...
+Expected Genre: Rock
+Predicted Genre: The lyrics you've provided are from the song "Hard Times" by Paramore. This song can be classified primarily as **pop punk** or **alternative rock**. Paramore is known for blending elements of pop, rock, and punk in their music, and "Hard Times" features upbeat instrumentation with introspective lyrics, which is characteristic of these genres.
+Correct: Yes
+
+Song 138:
+Lyrics: Hey, don't write yourself off yet
+It's only in your head, you feel left out
+Or looked down on
+Just t...
+Expected Genre: Rock
+Predicted Genre: The lyrics you've provided are from the song "The Middle" by Jimmy Eat World. This song is generally classified as **alternative rock** or **pop punk**. If you have more songs you'd like to classify, feel free to share!
+Correct: Yes
+
+Song 139:
+Lyrics: Let me know that I've done wrong
+When I've known this all along
+I go around a time or two
+Just to wa...
+Expected Genre: Rock
+Predicted Genre: The lyrics you've provided are from the song "The Only One" by the band The Black Keys. This song can be classified primarily as **rock**, with elements of **blues rock**. The Black Keys are known for their garage rock and blues influences, which are evident in their sound and lyrical style. If you have more songs or need further classification, feel free to share!
+Correct: Yes
+
+Song 140:
+Lyrics: Now, where's your picket fence, love?
+And where's that shiny car?
+And did it ever get you far?
+You n...
+Expected Genre: Rock
+Predicted Genre: The lyrics you've provided are from the song "I Miss You" by **Blink-182**. This song falls under the **pop punk** genre, which is characterized by its blend of punk rock elements with catchy melodies and pop influences. If you have more songs or lyrics you'd like classified, feel free to share!
+Correct: Yes
+
+Song 141:
+Lyrics: I chime in
+"Haven't you people ever heard of closing the goddamn door?"
+No, it's much better to face...
+Expected Genre: Rock
+Predicted Genre: The lyrics you've provided are from the song "I Write Sins Not Tragedies" by Panic! At The Disco. This song is classified primarily as **pop rock** or **alternative rock**. It features elements of baroque pop and has a theatrical style, which is characteristic of the band's music. If you have more songs or specific genres in mind, feel free to share!
+Correct: Yes
+
+Song 142:
+Lyrics: I'm a leading man
+And the lies I weave are oh so intricate
+Oh so intricate
+I'm a leading man
+And the...
+Expected Genre: Rock
+Predicted Genre: The lyrics you've provided are from the song "Leading Man" by the band **The Maine**. This song can be classified primarily under the **alternative rock** genre, with elements of **pop rock** and **indie rock**. The themes and lyrical style also suggest influences from **emo** and **post-punk**. If you have more songs or specific genres in mind, feel free to share!
+Correct: Yes
+
+Song 143:
+Lyrics: Am I more than you bargained for yet?
+I've been dying to tell you
+Anything you wanna hear
+'Cause tha...
+Expected Genre: Rock
+Predicted Genre: The lyrics you provided are from the song "Sugar, We're Goin Down" by Fall Out Boy. This song is classified primarily as **pop punk** and **emo**. Fall Out Boy is known for their blend of punk rock and pop elements, often featuring introspective and emotional lyrics.
+Correct: Yes
+
+Song 144:
+Lyrics: Yeah
+Here we go
+It's a new day
+But it all feels old
+It's a good life
+That's what I'm told
+But everyt...
+Expected Genre: Rock
+Predicted Genre: The lyrics you've provided are from the song "Welcome to My Life" by Simple Plan. This song is generally classified as **pop punk** or **alternative rock**. If you have more songs or lyrics you'd like to classify, feel free to share!
+Correct: Yes
+
+Song 145:
+Lyrics: Hello, there
+The angel from my nightmare
+The shadow in the background of the morgue
+The unsuspecting...
+Expected Genre: Rock
+Predicted Genre: The lyrics you've provided are from the song "I Miss You" by Blink-182. This song is classified primarily as **pop punk**. The band is known for blending elements of punk rock with catchy melodies and emotional lyrics, which is characteristic of the pop punk genre.
+Correct: Yes
+
+Song 146:
+Lyrics: All the small things
+True care, truth brings
+I'll take one lift
+Your ride, best trip
+Always, I know
+...
+Expected Genre: Rock
+Predicted Genre: The lyrics you've provided are from the song "All the Small Things" by Blink-182. This song is classified under the **pop punk** genre, which combines elements of punk rock with catchy melodies and pop influences. If you have more songs you'd like to classify, feel free to share!
+Correct: Yes
+
+Song 147:
+Lyrics: Please tell me why
+My car is in the front yard, and I'm
+Sleepin' with my clothes on
+I came in throug...
+Expected Genre: Rock
+Predicted Genre: The lyrics you provided are from the song "My Own Worst Enemy" by Lit. This song is classified as **rock**, specifically within the **alternative rock** or **post-grunge** genres. The song features themes of self-reflection, personal struggles, and the consequences of one's actions, which are common in rock music.
+Correct: Yes
+
+Song 148:
+Lyrics: So one, two, three
+Take my hand and come with me
+Because you look so fine
+That I really wanna make y...
+Expected Genre: Rock
+Predicted Genre: The lyrics you've provided are from the song "Teenage Kicks" by The Undertones. This song is typically classified as **punk rock** or **pop punk**. The energetic style and youthful themes are characteristic of the genre. If you have more songs you'd like to classify, feel free to share!
+Correct: Yes
+
+Song 149:
+Lyrics: You hear this beat, uh, comin' like heavy metal, raow
+If you got a business, bro, please, set it in ...
+Expected Genre: Rock
+Predicted Genre: The lyrics you provided suggest a style that is characteristic of **hip-hop** or **rap**. The references to beats, heavy metal influences, and the rhythmic flow are common in these genres. Additionally, the mention of "hi-hats" and the overall cadence align with contemporary rap music.
+Correct: No
+
+Song 150:
+Lyrics: I've been roamin' around, always lookin' down at all I see
+Painted faces fill the places I can't rea...
+Expected Genre: Rock
+Predicted Genre: The lyrics you've provided are from the song "Use Somebody" by Kings of Leon. This song is generally classified as belonging to the following genres:
+
+1. **Alternative Rock**
+2. **Post-Grunge**
+3. **Indie Rock**
+
+Kings of Leon's sound incorporates elements of rock, blues, and Southern rock, but "Use Somebody" is primarily recognized within the alternative rock genre.
+Correct: Yes
+
+Song 151:
+Lyrics: The dog days are over, oh
+The dog days are done
+Can you hear the horses?
+'Cause here they come
+The d...
+Expected Genre: Rock
+Predicted Genre: The lyrics you've provided are from the song "Dog Days Are Over" by Florence + The Machine. This song is generally classified as belonging to the following genres:
+
+1. **Indie Pop**
+2. **Baroque Pop**
+3. **Alternative Rock**
+
+Florence + The Machine is known for their eclectic sound, combining elements of various genres, but these three are the most prominent for this particular track.
+Correct: Yes
+
+Song 152:
+Lyrics: Regrets collect like old friends
+Here to relive your darkest moments
+I can see no way, I can see no ...
+Expected Genre: Rock
+Predicted Genre: The lyrics you've provided are from the song "Shake It Out" by Florence + The Machine. This song is generally classified under the genres of indie rock, baroque pop, and alternative rock. Florence + The Machine is known for their dramatic sound and emotive lyrics, which often blend elements of various genres.
+Correct: Yes
+
+Song 153:
+Lyrics: Well I know when you're around 'cause I know the sound
+I know the sound, of your heart
+Well I know w...
+Expected Genre: Rock
+Predicted Genre: The lyrics you've provided seem to fit within the genre of **indie pop** or **alternative rock**. The themes of personal connection and emotional expression, along with a conversational tone, are common in these genres. If you have more specific songs or artists in mind, I can help classify them further!
+Correct: Yes
+
+Song 154:
+Lyrics: Hey now, call it a split because I know that you will
+Oh-oh, you bite your friend like chocolate
+You...
+Expected Genre: Rock
+Predicted Genre: The lyrics you've provided are from the song "Run Away" by the band **Sister Nancy**. Based on the style and themes present in the lyrics, this song can be classified primarily as **alternative rock** or **indie rock**. The song also has elements that could be associated with **punk rock** due to its rebellious themes and energetic vibe. 
+
+If you have more songs or specific genres in mind, feel free to share!
+Correct: Yes
+
+Song 155:
+Lyrics: Both your hands in the holes of my sweater
+And if I may just take your breath away
+I don't mind if t...
+Expected Genre: Rock
+Predicted Genre: The lyrics you provided are from the song "Perfect" by Ed Sheeran. This song is primarily classified as **pop** and **acoustic**. It features romantic themes and a melodic structure typical of contemporary pop music. If you have more songs you'd like to classify, feel free to share!
+Correct: No
+
+Song 156:
+Lyrics: You used to get it in your fishnets
+Now you only get it in your night dress
+Discarded all the naught...
+Expected Genre: Rock
+Predicted Genre: The lyrics you provided are from the song "The Age of Adz" by Sufjan Stevens. This song can be classified under the following genres:
+
+1. **Indie Pop** - The song features melodic elements and a unique sound characteristic of indie pop music.
+2. **Folk** - Sufjan Stevens often incorporates folk elements into his music, which can be heard in the storytelling aspect of the lyrics.
+3. **Alternative** - The song's experimental nature and departure from mainstream pop conventions also place it within the alternative genre.
+
+Overall, Sufjan Stevens' work often blends multiple genres, making it difficult to classify strictly, but these are the primary genres associated with the song.
+Correct: No
+
+Song 157:
+Lyrics: Have you got colour in your cheeks?
+Do you ever get that fear that you can't shift the type
+That sti...
+Expected Genre: Rock
+Predicted Genre: The lyrics you've provided are from the song "I Know a Place" by the band **Arctic Monkeys**. The genre of this song can be classified as **indie rock** or **alternative rock**. Arctic Monkeys are known for their blend of rock, post-punk revival, and garage rock influences. If you have more songs or lyrics you'd like classified, feel free to share!
+Correct: Yes
+
+Song 158:
+Lyrics: I'm going back to 505
+If it's a seven hour flight or a forty-five minute drive
+In my imagination, yo...
+Expected Genre: Rock
+Predicted Genre: The lyrics you provided are from the song "505" by Arctic Monkeys. This song is generally classified under the genres of **indie rock** and **alternative rock**. The band's style often incorporates elements of post-punk revival and garage rock as well.
+Correct: Yes
+
+Song 159:
+Lyrics: We get some rules to follow
+That and this, these and those
+No one knows
+We get these pills to swallo...
+Expected Genre: Rock
+Predicted Genre: The lyrics you've provided are from the song "The Scientist" by Coldplay. This song is generally classified as belonging to the **alternative rock** or **post-Britpop** genre. Coldplay's music often incorporates elements of pop, rock, and electronic music, but "The Scientist" is primarily recognized for its emotional depth and melodic structure typical of alternative rock.
+Correct: Yes
+
+Song 160:
+Lyrics: Come down, and waste away with me
+Down with me
+Slow, how you wanted it to be
+I'm over my head, out o...
+Expected Genre: Rock
+Predicted Genre: The lyrics you've provided are from the song "Iris" by the Goo Goo Dolls. This song is typically classified as alternative rock or post-grunge. If you have more songs you'd like to classify, feel free to share!
+Correct: Yes
+
+Song 161:
+Lyrics: At times I wonder why I fool with you
+But this is new to me, this is new to you
+Initially, I didn't ...
+Expected Genre: R&B
+Predicted Genre: The lyrics you've provided are from the song "Falling" by Trevor Daniel. This song can be classified primarily as **Pop** and **R&B**. It features elements of contemporary pop music with emotional and introspective themes typical of R&B. If you have more songs or lyrics you'd like to classify, feel free to share!
+Correct: Yes
+
+Song 162:
+Lyrics: Yeah, started off right
+I can see it in your eyes
+I can tell that you're wantin' more
+What's been on...
+Expected Genre: R&B
+Predicted Genre: The lyrics you've provided appear to belong to a contemporary pop or pop-R&B song. The themes of desire, connection, and emotional expression are common in these genres. If you have more lyrics or specific songs in mind, I can help classify them further!
+Correct: Yes
+
+Song 163:
+Lyrics: Covered in your water and I'm feeling like a summer breeze
+Submitted under power and you brought me ...
+Expected Genre: R&B
+Predicted Genre: The lyrics you've provided suggest a pop or R&B genre. The themes of romance, desire, and sensuality are common in these genres, and the use of contemporary language and imagery aligns well with modern pop and R&B music styles. If you have more lyrics or specific songs in mind, I can help classify them further!
+Correct: Yes
+
+Song 164:
+Lyrics: Feelings, so deep in my feelings
+No, this ain't really like me
+Can't control my anxiety
+Feeling, lik...
+Expected Genre: R&B
+Predicted Genre: The lyrics you provided are from the song "Get Me High" by the artist **SZA**. This song can be classified primarily as **R&B** (Rhythm and Blues) with elements of **Pop**. SZA is known for her blend of these genres, often incorporating soulful melodies and introspective lyrics.
+Correct: Yes
+
+Song 165:
+Lyrics: I put my feelings on safety
+So I don't go shootin' where your heart be
+'Cause you take the bullet tr...
+Expected Genre: R&B
+Predicted Genre: The lyrics you provided are from the song "Bullet" by the artist **J. Cole**. This song can be classified primarily as **Hip-Hop/Rap**. The themes and style are characteristic of the genre, focusing on emotional depth and storytelling. If you have more songs or lyrics you'd like to classify, feel free to share!
+Correct: No
+
+Song 166:
+Lyrics: Round your city, 'round the clock
+Everybody needs you
+No, you can't make everybody equal
+Although yo...
+Expected Genre: R&B
+Predicted Genre: The lyrics you've provided are from the song "The Art of Peer Pressure" by Kendrick Lamar. This song falls under the genre of **Hip-Hop/Rap**. Kendrick Lamar is known for his intricate lyrics, storytelling, and social commentary, which are characteristic of the genre. If you have more songs or lyrics you'd like classified, feel free to share!
+Correct: No
+
+Song 167:
+Lyrics: Through drought and famine, natural disasters
+My baby has been around for me
+Kingdoms have fallen, a...
+Expected Genre: R&B
+Predicted Genre: The lyrics you've provided are from the song "Stay" by The Kid LAROI and Justin Bieber. This song can be classified primarily as **pop**. It also incorporates elements of **hip-hop** and **R&B**, which are common in contemporary pop music.
+Correct: Yes
+
+Song 168:
+Lyrics: You're the coffee that I need in the morning
+You're my sunshine in the rain when it's pouring
+Won't ...
+Expected Genre: R&B
+Predicted Genre: The lyrics you've provided are from the song "Location" by Khalid. This song can be classified primarily as **R&B** (Rhythm and Blues) with elements of **pop**. Khalid's style often blends these genres, creating a smooth and melodic sound that resonates with a wide audience.
+Correct: Yes
+
+Song 169:
+Lyrics: Hands in the soap
+Have the faucet's running
+And I keep looking at you
+Stuck on your phone
+And you're...
+Expected Genre: R&B
+Predicted Genre: The lyrics you've provided suggest themes of relationship dynamics, communication issues, and a desire for connection. Based on these themes, the song could be classified into the following genres:
+
+1. **Pop** - The catchy and relatable nature of the lyrics aligns well with pop music.
+2. **R&B** - The emotional undertones and focus on relationships are common in R&B.
+3. **Indie Pop** - If the song has a more laid-back or unique sound, it could also fit into the indie pop genre.
+
+If you have a specific artist or song in mind, that could help narrow it down further!
+Correct: Yes
+
+Song 170:
+Lyrics: If you got it, it ain't a question
+Ooh, it ain't no room for guessing
+No more than emotionally inves...
+Expected Genre: R&B
+Predicted Genre: The lyrics you provided are from the song "More" by H.E.R. This song can be classified primarily as **R&B** (Rhythm and Blues). It also incorporates elements of **soul** and **pop**. H.E.R.'s music often features emotional themes and smooth melodies typical of these genres.
+Correct: Yes
+
+Song 171:
+Lyrics: What you doing? (What you doing?)
+Where you at? (Where you at?)
+Oh, you got plans? (You got plans?)
+...
+Expected Genre: R&B
+Predicted Genre: The lyrics you provided are from the song "Better Than Revenge" by Taylor Swift. This song falls under the pop genre, specifically within the subgenres of pop and pop-rock. If you have more songs or lyrics you'd like to classify, feel free to share!
+Correct: No
+
+Song 172:
+Lyrics: Diamonds on her neck, diamonds on her wrists
+And here I am all alone (All alone)
+I'm so cold, I'm so...
+Expected Genre: R&B
+Predicted Genre: The lyrics you provided are from the song "Smokin' Out the Window" by Silk Sonic, which is a duo consisting of Bruno Mars and Anderson .Paak. This song can be classified primarily as **R&B** (Rhythm and Blues) with elements of **soul** and **funk**.
+Correct: Yes
+
+Song 173:
+Lyrics: It's getting hard for me to hold my own
+See, nobody wants to be in love alone
+So I'm trying my best ...
+Expected Genre: R&B
+Predicted Genre: The lyrics you've provided suggest themes of love, vulnerability, and emotional honesty, which are commonly found in several music genres. Based on these themes, the song could be classified primarily as:
+
+1. **Pop** - Many pop songs explore relationships and emotional experiences, often with catchy melodies and relatable lyrics.
+2. **R&B** - The emotional depth and focus on love and personal connection align well with the R&B genre, which often emphasizes vocal performance and soulful expression.
+3. **Soul** - If the song has a more expressive and heartfelt delivery, it could also fit into the soul genre, which is known for its focus on emotion and personal storytelling.
+
+If you have a specific artist or song in mind, that could help narrow it down further!
+Correct: Yes
+
+Song 174:
+Lyrics: On a scale of one to ten, I'm at a hundred
+Never get enough, I can't stay away
+If you want what I go...
+Expected Genre: R&B
+Predicted Genre: The lyrics you've provided are from the song "Best Part" by Daniel Caesar featuring H.E.R. This song can be classified primarily as **R&B** (Rhythm and Blues). It features elements of soul and contemporary music, which are common in the R&B genre. If you have more songs or lyrics you'd like to classify, feel free to share!
+Correct: Yes
+
+Song 175:
+Lyrics: 
+I try to keep from losin' the rest of me
+I worry that I wasted the best of me on you, babe
+You don'...
+Expected Genre: R&B
+Predicted Genre: The lyrics you've provided are from the song "Jade Bird" by the artist **Jade Bird**. Based on the themes and style of the lyrics, this song can be classified primarily as **indie pop** or **alternative rock**. The introspective and emotional nature of the lyrics also aligns with elements of **singer-songwriter** genres. 
+
+If you have more songs or specific lyrics you'd like to classify, feel free to share!
+Correct: No
+
+Song 176:
+Lyrics: I can't lose when I'm with you
+How can I snooze and miss the moment?
+You just too important
+Nobody d...
+Expected Genre: R&B
+Predicted Genre: The lyrics you've provided suggest a romantic and upbeat theme, which is often found in genres like R&B, Pop, or Hip-Hop. The repetition and focus on personal connection and importance also align with contemporary love songs. 
+
+If you have a specific song in mind, please let me know, and I can provide a more precise classification!
+Correct: Yes
+
+Song 177:
+Lyrics: I'm still a fan even though I was salty
+Hate to see you with some other broad, know you happy
+Hate t...
+Expected Genre: R&B
+Predicted Genre: The lyrics you've provided are from the song "I Can't Have You" by **Sabrina Carpenter**. This song can be classified primarily as **Pop**. It also incorporates elements of **R&B** and **Indie Pop**, reflecting themes of heartbreak and emotional complexity. If you have more songs or need further classification, feel free to share!
+Correct: Yes
+
+Song 178:
+Lyrics: If there's another universe
+Please make some noise (Noise)
+Give me a sign (Sign)
+This can't be life
+...
+Expected Genre: R&B
+Predicted Genre: The lyrics you've provided suggest themes of existential questioning, emotional pain, and a sense of disillusionment. Based on these themes, the song could be classified into several genres, including:
+
+1. **Alternative Rock** - The introspective and emotional nature of the lyrics aligns well with the alternative rock genre, which often explores deep and complex themes.
+2. **Post-Rock** - If the music accompanying these lyrics features atmospheric instrumentation and a focus on mood rather than traditional song structure, it could fit into post-rock.
+3. **Emo** - The expression of emotional turmoil and personal struggle is characteristic of emo music.
+4. **Indie Rock** - If the song has a more independent or non-mainstream sound, it could also be classified as indie rock.
+
+Ultimately, the exact genre classification may depend on the musical style and instrumentation accompanying the lyrics.
+Correct: No
+
+Song 179:
+Lyrics: Keep a place for me, for me
+I'll sleep between y'all, it's nothing
+It's nothing, it's nothing
+Keep a...
+Expected Genre: R&B
+Predicted Genre: The lyrics you've provided are from the song "UFO" by the artist **Sufjan Stevens**. This song can be classified under the following genres:
+
+1. **Indie Folk** - Sufjan Stevens is known for his blend of folk elements with indie music.
+2. **Alternative** - The song also fits within the alternative genre due to its unique sound and lyrical style.
+
+If you have more songs or need further classification, feel free to share!
+Correct: No
+
+Song 180:
+Lyrics: If I could, I would take the pain away
+I don't see that smile I made
+You already made plans that ain...
+Expected Genre: R&B
+Predicted Genre: The lyrics you've provided suggest themes of emotional struggle, longing, and relationship dynamics, which are commonly found in several music genres. Based on these themes, the song could be classified into the following genres:
+
+1. **Pop** - Many pop songs explore personal and emotional themes, making this a likely genre.
+2. **Alternative/Indie** - The introspective and emotional nature of the lyrics aligns with the alternative or indie genre.
+3. **R&B** - The focus on relationships and emotional depth is also characteristic of R&B music.
+4. **Rock** - If the song has a more intense or raw sound, it could fit into the rock genre as well.
+
+Without additional context about the song's instrumentation or style, these classifications are based solely on the lyrical content.
+Correct: Yes
+
+Song 181:
+Lyrics: Sometimes a mystery, sometimes I'm free
+Depending on my mood or my attitude
+Sometimes I wanna roll o...
+Expected Genre: R&B
+Predicted Genre: The lyrics you provided are from the song "Walking Contradiction" by Green Day. This song can be classified primarily as **punk rock**. Green Day is known for their punk rock sound, which often incorporates elements of pop punk and alternative rock. 
+
+If you have more songs or lyrics you'd like classified by genre, feel free to share!
+Correct: No
+
+Song 182:
+Lyrics: You're speaking a language no one speaks
+In a room that don't exist
+I'm just gonna shut up
+And bear ...
+Expected Genre: R&B
+Predicted Genre: The lyrics you provided are from the song "Summer Rain" by **Kaskade** featuring **Samantha James**. This song can be classified primarily as **electronic dance music (EDM)**, specifically within the subgenres of **deep house** and **progressive house**. The song features elements typical of these genres, such as melodic vocals, a steady beat, and atmospheric production.
+Correct: No
+
+Song 183:
+Lyrics: Been travelling these wide roads
+For so long
+My heart's been far from you
+Ten thousand miles gone
+Oh...
+Expected Genre: R&B
+Predicted Genre: The lyrics you've provided are from the song "Blood on the Leaves" by **Macklemore & Ryan Lewis** featuring **Jasmine Thompson**. This song can be classified primarily as **Hip-Hop/Rap**, with elements of **Pop** and **R&B**. The themes and lyrical style also reflect influences from **Folk** and **Soul** music. 
+
+If you have more songs or lyrics you'd like to classify, feel free to share!
+Correct: Yes
+
+Song 184:
+Lyrics: Baby, I just don't get it, do you enjoy bein' hurt?
+I know you smelled the perfume, the makeup on hi...
+Expected Genre: R&B
+Predicted Genre: The lyrics you've provided are from the song "Adorn" by Miguel. This song is primarily classified as **R&B** (Rhythm and Blues). It features elements of soul and contemporary R&B, which are characteristic of Miguel's style. If you have more songs you'd like to classify, feel free to share!
+Correct: Yes
+
+Song 185:
+Lyrics: Gotta change my answering machine
+Now that I'm alone
+'Cause right now it says that we
+Can't come to ...
+Expected Genre: R&B
+Predicted Genre: The lyrics you provided are from the song "Irreplaceable" by Beyoncé. This song is classified primarily as **R&B** (Rhythm and Blues) and also has elements of **Pop**. If you have more songs you'd like to classify, feel free to share!
+Correct: Yes
+
+Song 186:
+Lyrics: Cause she walk like a boss, talk like a boss
+Manicured nails to set the pedicure off
+She's fly effor...
+Expected Genre: R&B
+Predicted Genre: The lyrics you provided are from the song "Miss Independent" by Ne-Yo. This song can be classified primarily as **R&B** (Rhythm and Blues) and **Pop**. It features elements typical of both genres, including smooth melodies and themes of empowerment and independence.
+Correct: Yes
+
+Song 187:
+Lyrics: Can I tell you something, for what it's worth?
+With you, Heaven is a place on Earth
+And I will take ...
+Expected Genre: R&B
+Predicted Genre: The lyrics you've provided are from the song "Heaven Is a Place on Earth" by Belinda Carlisle. This song is classified primarily as **pop**. It also has elements of **rock** and **new wave**, which were popular in the 1980s when the song was released. If you have more songs you'd like to classify, feel free to share!
+Correct: No
+
+Song 188:
+Lyrics: You gon' have to do more than just (Say it)
+You gon' have to do less when you (Do it)
+So mama you kn...
+Expected Genre: R&B
+Predicted Genre: The lyrics you've provided suggest themes commonly found in R&B or hip-hop music, particularly with a focus on relationships and authenticity. The repetition and conversational tone also align with these genres. Therefore, I would classify this song as primarily **R&B** or **hip-hop**. If you have more context or specific artists in mind, that could help refine the classification further!
+Correct: Yes
+
+Song 189:
+Lyrics: Balloons are deflated
+Guess they look lifeless like me
+We miss you on your side of the bed, mmm
+Stil...
+Expected Genre: R&B
+Predicted Genre: The lyrics you provided are from the song "Someone You Loved" by Lewis Capaldi. This song is classified primarily as **pop** and **pop ballad**. It features emotional themes and a focus on love and loss, which are common in these genres.
+Correct: No
+
+Song 190:
+Lyrics: I guess it's overdue
+Tell me your point of view
+Tell me, am I to blame?
+You're so good with change, ...
+Expected Genre: R&B
+Predicted Genre: The lyrics you've provided seem to fit within the genre of **Pop**. The themes of relationships, emotional reflection, and personal experiences are common in pop music. If you have more specific songs or artists in mind, I can help classify those as well!
+Correct: No
+
+Song 191:
+Lyrics: If this what you want, baby, okay
+He give you his all but you have no patience (Patience, patience)
+...
+Expected Genre: R&B
+Predicted Genre: The lyrics you've provided suggest themes commonly found in contemporary R&B and pop music. The emotional content, focus on relationships, and conversational tone are characteristic of these genres. If you have more specific songs or artists in mind, I can help classify them further!
+Correct: Yes
+
+Song 192:
+Lyrics: It's a dark science when your friends start dyin'
+Like, "How could he go? He was part-lion"
+Life goe...
+Expected Genre: R&B
+Predicted Genre: The lyrics you've provided appear to be from the song "The Boy Who Blocked His Own Shot" by Brand New. This song is generally classified under the genres of **emo** and **alternative rock**. If you have more songs or lyrics you'd like to classify, feel free to share!
+Correct: No
+
+Song 193:
+Lyrics: When you say that you love 'em and you really know
+Everything that used to matter don't matter no mo...
+Expected Genre: R&B
+Predicted Genre: The lyrics you provided are from the song "Fortunate" by Maxwell. This song is classified as **R&B (Rhythm and Blues)**. Maxwell is known for his smooth vocal style and romantic themes, which are characteristic of the R&B genre.
+Correct: Yes
+
+Song 194:
+Lyrics: And girl, I feel like it's our first time every time we get together
+Baby, loving you feels better t...
+Expected Genre: R&B
+Predicted Genre: The lyrics you've provided are from the song "There Goes My Baby" by Usher. This song can be classified primarily as **R&B (Rhythm and Blues)**. It also incorporates elements of **Pop** due to its mainstream appeal and melodic structure.
+Correct: Yes
+
+Song 195:
+Lyrics: Spotlights (Spotlights), big stage
+Fifty thousand fans screamin' in a rage
+Bodyguards (Bodyguards) a...
+Expected Genre: R&B
+Predicted Genre: The lyrics you provided are from the song "The Way I Loved You" by Taylor Swift. This song can be classified primarily as **country pop**. Taylor Swift is known for her blend of country and pop music, especially in her earlier works. If you have more songs you'd like to classify, feel free to share!
+Correct: No
+
+Song 196:
+Lyrics: When I first saw you, I already knew
+There was something inside of you
+Something I thought that I wo...
+Expected Genre: R&B
+Predicted Genre: The lyrics you provided are from the song "Angel of Mine" by Monica. This song is classified as R&B (Rhythm and Blues). It features elements typical of the genre, such as soulful melodies and emotional themes centered around love and relationships.
+Correct: Yes
+
+Song 197:
+Lyrics: I think it's time we got this straight
+Let's sit and talk face to face
+There is no way you could mis...
+Expected Genre: R&B
+Predicted Genre: The lyrics you've provided are from the song "Say My Name" by Destiny's Child. This song is classified as R&B (Rhythm and Blues) and pop. It features themes of love, jealousy, and relationship dynamics, which are common in these genres. If you have more songs or lyrics you'd like classified, feel free to share!
+Correct: Yes
+
+Song 198:
+Lyrics: I just want you close
+Where you can stay forever
+You can be sure
+That it will only get better
+You an...
+Expected Genre: R&B
+Predicted Genre: The lyrics you've provided are from the song "Three Little Birds" by Bob Marley. This song is classified under the **Reggae** genre. If you have more songs you'd like to classify, feel free to share!
+Correct: No
+
+Song 199:
+Lyrics: Some people live for the fortune
+Some people live just for the fame
+Some people live for the power, ...
+Expected Genre: R&B
+Predicted Genre: The lyrics you've provided are from the song "Unpretty" by TLC. This song can be classified primarily as **R&B** (Rhythm and Blues) and **Hip-Hop**. It features themes of self-acceptance and critiques societal standards of beauty, which are common in the R&B genre. If you have more songs or lyrics you'd like to classify, feel free to share!
+Correct: Yes
+
+Song 200:
+Lyrics: Girl, I'm in love with you
+But this ain't the honeymoon
+We're passed the infatuation phase
+We're rig...
+Expected Genre: R&B
+Predicted Genre: The lyrics you provided are from the song "We Belong Together" by Mariah Carey. This song can be classified primarily as **R&B** (Rhythm and Blues) and **Pop**. It features emotional themes and a focus on relationships, which are common in both genres.
+Correct: Yes
+
